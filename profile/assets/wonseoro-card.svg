@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 750" width="750" height="750" role="img" aria-label="Public Platform project card">
+<defs><linearGradient id="water" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1262C0"/><stop offset=".43" stop-color="#3EAFF4"/><stop offset="1" stop-color="#9ED7FA"/></linearGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#20242D"/><stop offset="1" stop-color="#14181F"/></linearGradient></defs>
+<rect x="15" y="15" width="720" height="720" rx="78" fill="#070A10"/>
+<rect x="32" y="32" width="686" height="686" rx="63" fill="url(#water)"/>
+<path d="M35 207 Q180 92 344 184 T717 173 M36 164 Q165 260 355 150 T717 152" stroke="#DBF5FF" fill="none" stroke-width="14" stroke-linecap="round" opacity=".28"/>
+<text x="674" y="86" font-size="23" fill="#FFFFFF" text-anchor="end" font-weight="700" font-family="Arial,sans-serif">UntameDuck</text>
+<text x="674" y="113" font-size="21" fill="#F0FBFF" text-anchor="end" font-family="Arial,sans-serif">PROJECTS</text>
+<path d="M36 246 Q36 222 66 222 L288 222 Q316 222 332 241 L374 283 Q385 294 411 294 L664 294 Q718 294 718 348 L718 658 Q718 718 658 718 L96 718 Q36 718 36 658Z" fill="url(#panel)"/>
+<text x="69" y="392" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="104" letter-spacing="-2">WONSEORO</text>
+<text x="70" y="454" fill="#C7D4E2" font-family="Arial,sans-serif" font-size="31">Federated Admissions</text>
+<text x="70" y="507" fill="#91A4BB" font-family="Arial,sans-serif" font-size="21">University applications · K-PaaS</text>
+<text x="70" y="662" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="28" font-weight="700">PUBLIC PLATFORM</text>
+<text x="681" y="663" text-anchor="end" fill="#B9CADB" font-family="Arial,sans-serif" font-size="22">TypeScript</text>
+</svg>
