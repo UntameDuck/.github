@@ -113,11 +113,15 @@ Our projects span web development, mobile apps, research prototypes, backend sys
 
 *Every commit, pull request, and contribution sends another ripple across the pond.*
 
-<p align="center"><img src="./assets/org-contributions.svg" width="100%" alt="Blue organization contribution heatmap, total contributions and streak statistics" /></p>
+<p align="center">
+  <a href="https://untameduck.github.io/.github/"><b>🌊 Explore the Interactive Pond Activity Dashboard ↗</b></a>
+</p>
+
+**Explore 365 days of activity:** hover over any date to see its contribution count, or click to browse public commits and pull requests for that day.
 
 The **Pond Activity** heatmap is designed to aggregate eligible GitHub contributions associated with UntameDuck from discovered public-repository contributors over the past 365 days. Coverage depends on GitHub permissions, contributor visibility, and GitHub's contribution rules.
 
-> **Live data:** This chart is recalculated automatically each day (09:23 KST) from GitHub's organization-filtered contribution calendars of public-repository commit authors. It is not a static mockup. [View the latest refresh](https://github.com/UntameDuck/.github/actions/workflows/pond-activity.yml).
+> **Live data:** The linked interactive dashboard uses GitHub organization-filtered contribution calendars and refreshes daily at 09:23 KST. GitHub Pages must be enabled once under the repository Settings → Pages for the website to become available.
 
 ## 05 · People in the Pond
 
