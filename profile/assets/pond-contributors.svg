@@ -1,50 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="572" viewBox="0 0 1200 572" role="img" aria-label="GitHub contributor ranking based on October 10 2026 public default branch commits">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="572" viewBox="0 0 1200 572" role="img">
+<title>People in the Pond — GitHub contributors</title>
 <defs><linearGradient id="lagoon"><stop stop-color="#0D8BD8"/><stop offset=".5" stop-color="#3EAFF4"/><stop offset="1" stop-color="#9ED7FA"/></linearGradient></defs>
 <rect x="1" y="1" width="1198" height="570" rx="27" fill="#F2F8FF" stroke="#D2E7FA" stroke-width="2"/>
 <rect x="32" y="29" width="6" height="48" rx="3" fill="#0D8BD8"/>
-<text x="53" y="55" font-family="Arial,Helvetica,sans-serif" fill="#173D76" font-size="27" font-weight="750" text-anchor="start">PEOPLE IN THE POND</text>
-<text x="53" y="80" font-family="Arial,Helvetica,sans-serif" fill="#55769A" font-size="14" font-weight="400" text-anchor="start">GitHub-linked commit authors · public default branches</text>
-<text x="1157" y="54" font-family="Arial,Helvetica,sans-serif" fill="#4879AD" font-size="12" font-weight="700" text-anchor="end">OCT 10, 2026 SNAPSHOT</text>
-<text x="54" y="131" font-family="Arial,Helvetica,sans-serif" fill="#668AAF" font-size="12" font-weight="750" text-anchor="start">GITHUB ACCOUNT</text>
-<text x="1150" y="131" font-family="Arial,Helvetica,sans-serif" fill="#668AAF" font-size="12" font-weight="750" text-anchor="end">COMMITS</text>
+<text x="53" y="55" fill="#173D76" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="750">PEOPLE IN THE POND</text>
+<text x="53" y="80" fill="#597BA2" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400">GitHub-linked commit authors · public default branches</text>
+<text x="1157" y="54" fill="#4879AD" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">UPDATED 2026-10-10 UTC</text>
+<text x="54" y="131" fill="#668AAF" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="750">GITHUB ACCOUNT</text>
+<text x="1150" y="131" fill="#668AAF" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="750">COMMITS</text>
 <rect x="31" y="145" width="1138" height="51" rx="10" fill="#E6F2FF"/>
-<text x="49" y="178" font-family="Arial,Helvetica,sans-serif" fill="#7B9AB7" font-size="14" font-weight="600" text-anchor="start">01</text>
-<text x="91" y="179" font-family="Arial,Helvetica,sans-serif" fill="#163E76" font-size="18" font-weight="700" text-anchor="start">@ryan-ahn-song</text>
+<text x="49" y="178" fill="#7B9AB7" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">01</text>
+<text x="91" y="179" fill="#163E76" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">@ryan-ahn-song</text>
 <rect x="395" y="163" width="650" height="20" rx="10" fill="#CBDFF4"/>
 <rect x="395" y="163" width="650.0" height="20" rx="10" fill="url(#lagoon)"/>
-<text x="1148" y="179" font-family="Arial,Helvetica,sans-serif" fill="#173D76" font-size="18" font-weight="800" text-anchor="end">406</text>
-<text x="49" y="234" font-family="Arial,Helvetica,sans-serif" fill="#7B9AB7" font-size="14" font-weight="600" text-anchor="start">02</text>
-<text x="91" y="235" font-family="Arial,Helvetica,sans-serif" fill="#163E76" font-size="18" font-weight="700" text-anchor="start">@Popoisthebest</text>
+<text x="1148" y="179" fill="#173D76" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800">406</text>
+<text x="49" y="234" fill="#7B9AB7" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">02</text>
+<text x="91" y="235" fill="#163E76" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">@Popoisthebest</text>
 <rect x="395" y="219" width="650" height="20" rx="10" fill="#CBDFF4"/>
 <rect x="395" y="219" width="89.7" height="20" rx="10" fill="url(#lagoon)"/>
-<text x="1148" y="235" font-family="Arial,Helvetica,sans-serif" fill="#173D76" font-size="18" font-weight="800" text-anchor="end">56</text>
+<text x="1148" y="235" fill="#173D76" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800">56</text>
 <rect x="31" y="257" width="1138" height="51" rx="10" fill="#E6F2FF"/>
-<text x="49" y="290" font-family="Arial,Helvetica,sans-serif" fill="#7B9AB7" font-size="14" font-weight="600" text-anchor="start">03</text>
-<text x="91" y="291" font-family="Arial,Helvetica,sans-serif" fill="#163E76" font-size="18" font-weight="700" text-anchor="start">@biro425</text>
+<text x="49" y="290" fill="#7B9AB7" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">03</text>
+<text x="91" y="291" fill="#163E76" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">@biro425</text>
 <rect x="395" y="275" width="650" height="20" rx="10" fill="#CBDFF4"/>
 <rect x="395" y="275" width="83.3" height="20" rx="10" fill="url(#lagoon)"/>
-<text x="1148" y="291" font-family="Arial,Helvetica,sans-serif" fill="#173D76" font-size="18" font-weight="800" text-anchor="end">52</text>
-<text x="49" y="346" font-family="Arial,Helvetica,sans-serif" fill="#7B9AB7" font-size="14" font-weight="600" text-anchor="start">04</text>
-<text x="91" y="347" font-family="Arial,Helvetica,sans-serif" fill="#163E76" font-size="18" font-weight="700" text-anchor="start">@DevTeamARK</text>
+<text x="1148" y="291" fill="#173D76" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800">52</text>
+<text x="49" y="346" fill="#7B9AB7" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">04</text>
+<text x="91" y="347" fill="#163E76" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">@DevTeamARK</text>
 <rect x="395" y="331" width="650" height="20" rx="10" fill="#CBDFF4"/>
 <rect x="395" y="331" width="25.6" height="20" rx="10" fill="url(#lagoon)"/>
-<text x="1148" y="347" font-family="Arial,Helvetica,sans-serif" fill="#173D76" font-size="18" font-weight="800" text-anchor="end">16</text>
+<text x="1148" y="347" fill="#173D76" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800">16</text>
 <rect x="31" y="369" width="1138" height="51" rx="10" fill="#E6F2FF"/>
-<text x="49" y="402" font-family="Arial,Helvetica,sans-serif" fill="#7B9AB7" font-size="14" font-weight="600" text-anchor="start">05</text>
-<text x="91" y="403" font-family="Arial,Helvetica,sans-serif" fill="#163E76" font-size="18" font-weight="700" text-anchor="start">@m1nxun</text>
+<text x="49" y="402" fill="#7B9AB7" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">05</text>
+<text x="91" y="403" fill="#163E76" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">@m1nxun</text>
 <rect x="395" y="387" width="650" height="20" rx="10" fill="#CBDFF4"/>
 <rect x="395" y="387" width="8.0" height="20" rx="10" fill="url(#lagoon)"/>
-<text x="1148" y="403" font-family="Arial,Helvetica,sans-serif" fill="#173D76" font-size="18" font-weight="800" text-anchor="end">5</text>
-<text x="49" y="458" font-family="Arial,Helvetica,sans-serif" fill="#7B9AB7" font-size="14" font-weight="600" text-anchor="start">06</text>
-<text x="91" y="459" font-family="Arial,Helvetica,sans-serif" fill="#163E76" font-size="18" font-weight="700" text-anchor="start">@Inter129</text>
+<text x="1148" y="403" fill="#173D76" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800">5</text>
+<text x="49" y="458" fill="#7B9AB7" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">06</text>
+<text x="91" y="459" fill="#163E76" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">@chaste-ganza</text>
 <rect x="395" y="443" width="650" height="20" rx="10" fill="#CBDFF4"/>
 <rect x="395" y="443" width="5.0" height="20" rx="10" fill="url(#lagoon)"/>
-<text x="1148" y="459" font-family="Arial,Helvetica,sans-serif" fill="#173D76" font-size="18" font-weight="800" text-anchor="end">2</text>
+<text x="1148" y="459" fill="#173D76" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800">2</text>
 <rect x="31" y="481" width="1138" height="51" rx="10" fill="#E6F2FF"/>
-<text x="49" y="514" font-family="Arial,Helvetica,sans-serif" fill="#7B9AB7" font-size="14" font-weight="600" text-anchor="start">07</text>
-<text x="91" y="515" font-family="Arial,Helvetica,sans-serif" fill="#163E76" font-size="18" font-weight="700" text-anchor="start">@chaste-ganza</text>
+<text x="49" y="514" fill="#7B9AB7" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">07</text>
+<text x="91" y="515" fill="#163E76" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">@Inter129</text>
 <rect x="395" y="499" width="650" height="20" rx="10" fill="#CBDFF4"/>
 <rect x="395" y="499" width="5.0" height="20" rx="10" fill="url(#lagoon)"/>
-<text x="1148" y="515" font-family="Arial,Helvetica,sans-serif" fill="#173D76" font-size="18" font-weight="800" text-anchor="end">2</text>
-<text x="40" y="553" font-family="Arial,Helvetica,sans-serif" fill="#6889AA" font-size="12" font-weight="400" text-anchor="start">Snapshot: 539 commits · 7 linked author accounts · 12 repositories · Not an organization membership list</text>
+<text x="1148" y="515" fill="#173D76" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800">2</text>
+<text x="40" y="553" fill="#597BA2" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400">Commit counts do not represent organization membership or contribution-calendar totals.</text>
 </svg>

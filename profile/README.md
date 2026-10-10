@@ -130,17 +130,17 @@ The **Pond Activity** heatmap is designed to aggregate eligible GitHub contribut
 The leaderboard counts **GitHub-linked commit authors on the default branches of public repositories**. It is **not** an official organization membership list or a complete record of non-code contributions.
 
 <!-- CONTRIBUTORS:START -->
-**Snapshot: October 10, 2026 (UTC)** · **539 linked-author commits · 7 author accounts · 12 repositories with commits**
+**Updated 2026-10-10 (UTC)** · **539 linked-author commits · 7 author accounts · 12 repositories with commits**
 
 | GitHub Account | Default-Branch Commits | Repositories |
 | :--- | ---: | ---: |
-| [@ryan-ahn-song](https://github.com/ryan-ahn-song) | **406** | 12 |
+| [@ryan-ahn-song](https://github.com/ryan-ahn-song) | 406 | 12 |
 | [@Popoisthebest](https://github.com/Popoisthebest) | 56 | 1 |
 | [@biro425](https://github.com/biro425) | 52 | 3 |
 | [@DevTeamARK](https://github.com/DevTeamARK) | 16 | 1 |
 | [@m1nxun](https://github.com/m1nxun) | 5 | 2 |
-| [@Inter129](https://github.com/Inter129) | 2 | 1 |
 | [@chaste-ganza](https://github.com/chaste-ganza) | 2 | 1 |
+| [@Inter129](https://github.com/Inter129) | 2 | 1 |
 
 <!-- CONTRIBUTORS:END -->
 
