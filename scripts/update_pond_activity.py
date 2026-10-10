@@ -219,6 +219,54 @@ def activity_svg(counts, start, end, fetched, discovered):
     parts.append("</svg>")
     return "\n".join(parts)+"\n"
 
+def pond_html(counts, start, end):
+    """A real 365-day heatmap in README-native HTML, without images or CSS."""
+    from calendar import month_abbr
+    first_sunday = start - timedelta(days=(start.weekday() + 1) % 7)
+    sundays = []
+    week = first_sunday
+    while week <= end:
+        sundays.append(week)
+        week += timedelta(days=7)
+    symbols = ("⬜", "💠", "🔹", "🔷", "🟦", "🔵")
+    def level(n):
+        return 0 if n == 0 else 1 if n <= 2 else 2 if n <= 5 else 3 if n <= 10 else 4 if n <= 18 else 5
+    current, longest = streak_stats(counts, start, end)
+    out = [
+        "**%s contributions** · **%s-day current streak** · **%s-day longest streak** · **Last updated %s (UTC)**" %
+        (format(sum(counts.values()), ","), current, longest, end.isoformat()),
+        "",
+        "<table>"
+    ]
+    headings = ["<tr><th>Day</th>"]
+    previous_month = None
+    for sunday in sundays:
+        month = sunday.month
+        title = month_abbr[month] if month != previous_month else ""
+        headings.append("<th>%s</th>" % title)
+        previous_month = month
+    headings.append("</tr>")
+    out.append("".join(headings))
+    for weekday, day_name in enumerate(("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat")):
+        cells = ["<tr><th>%s</th>" % day_name]
+        for sunday in sundays:
+            date = sunday + timedelta(days=weekday)
+            if date < start or date > end:
+                cells.append("<td></td>")
+                continue
+            n = counts[date]
+            caption = "%s: %s contribution%s" % (date, n, "" if n == 1 else "s")
+            cells.append('<td title="%s">%s</td>' % (caption, symbols[level(n)]))
+        cells.append("</tr>")
+        out.append("".join(cells))
+    out.extend([
+        "</table>",
+        "",
+        "**Activity levels:** ⬜ None · 💠 1–2 · 🔹 3–5 · 🔷 6–10 · 🟦 11–18 · 🔵 19+",
+        ""
+    ])
+    return "\n".join(out)
+
 def main():
     if not TOKEN:
         raise RuntimeError("A GITHUB_TOKEN is required to fetch real contribution data.")
@@ -245,7 +293,14 @@ def main():
         raise RuntimeError("README requires one CONTRIBUTORS:START and CONTRIBUTORS:END marker")
     head,tail=content.split(BEGIN,1)
     _,foot=tail.split(END,1)
-    README.write_text(head+BEGIN+"\n"+"\n".join(table)+"\n\n"+END+foot,encoding="utf-8")
+    updated_readme = head + BEGIN + "\n" + "\n".join(table) + "\n\n" + END + foot
+    pond_begin, pond_end = "<!-- POND-GRASS:START -->", "<!-- POND-GRASS:END -->"
+    if updated_readme.count(pond_begin) != 1 or updated_readme.count(pond_end) != 1:
+        raise RuntimeError("README requires one POND-GRASS start and end marker")
+    pond_head, pond_tail = updated_readme.split(pond_begin, 1)
+    _, pond_foot = pond_tail.split(pond_end, 1)
+    updated_readme = pond_head + pond_begin + "\n" + pond_html(daily, start, today) + "\n" + pond_end + pond_foot
+    README.write_text(updated_readme, encoding="utf-8")
     ASSETS.mkdir(parents=True,exist_ok=True)
     (ASSETS/"pond-contributors.svg").write_text(contributor_svg(totals,date_str),encoding="utf-8")
     (ASSETS/"org-contributions.svg").write_text(activity_svg(daily,start,today,fetched,discovered),encoding="utf-8")
