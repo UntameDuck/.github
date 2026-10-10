@@ -37,8 +37,11 @@ jobs:
           test -s docs/index.html
           test -s docs/activity-data.json
           python -m json.tool docs/activity-data.json > /dev/null
-      - name: Configure GitHub Pages
+      - name: Configure or enable GitHub Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
+          token: ${{ secrets.ORG_STATS_TOKEN || github.token }}
       - name: Upload static dashboard
         uses: actions/upload-pages-artifact@v3
         with:
