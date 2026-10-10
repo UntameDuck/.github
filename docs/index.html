@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#E7F3FF">
+<meta name="description" content="UntameDuck interactive contribution calendar and public commit details">
+<title>UntameDuck — Pond Activity</title>
+<style>
+:root{font-family:Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif;color:#173a63;background:#eef6ff}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 75% -20%,#c3e4ff,transparent 70%),#eef6ff}
+main{max-width:1170px;margin:auto;padding:28px 22px 80px}
+a{color:#116ab2;text-decoration:none}a:hover{text-decoration:underline}button:focus-visible,a:focus-visible{outline:3px solid #116ab2;outline-offset:3px}
+nav{display:flex;justify-content:space-between;gap:12px;margin-bottom:25px;font-weight:700;font-size:13px}
+header{padding:33px 38px;border-radius:25px;background:linear-gradient(112deg,#1755b2,#0f99f2 68%,#9ed7fa);color:white;position:relative;overflow:hidden}
+header:after{content:"";position:absolute;width:480px;height:190px;right:-90px;top:25px;transform:rotate(-22deg);border:2px solid #ffffff33;border-radius:50%}
+header small{letter-spacing:2px;text-transform:uppercase;font-weight:800;color:#e6f7ff}
+h1{font-size:clamp(32px,5vw,48px);letter-spacing:-1.5px;margin:15px 0 8px}
+header p{line-height:1.6;margin:0;color:#e6f6ff}
+.metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin:18px 0}
+.metric,section{background:white;border:1px solid #d5e7fa;border-radius:20px;box-shadow:0 8px 20px #105da40a}
+.metric{padding:21px}.metric small{display:block;color:#6585a5;font-size:12px;font-weight:750;text-transform:uppercase}
+.metric strong{display:block;color:#134a81;font-size:clamp(24px,3vw,34px);letter-spacing:-1px;margin-top:9px}
+section{padding:25px;margin-top:18px}h2{font-size:22px;letter-spacing:-.5px;margin:0 0 5px}
+.muted{color:#6585a5;font-size:13px;line-height:1.6}.section-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.legend{display:flex;align-items:center;gap:4px;color:#7896b4;font-size:12px}
+.legend i{display:inline-block;width:13px;height:13px;border-radius:3px;background:var(--c)}
+.calendar-scroll{overflow-x:auto;padding:20px 7px 19px 0}
+.calendar{min-width:750px}.months{height:24px;margin-left:42px;position:relative}.months span{position:absolute;top:1px;font-size:12px;color:#698baa}
+.cal-body{display:flex;gap:9px}.weekday{width:33px;display:grid;grid-template-rows:repeat(7,13px);gap:4px;text-align:right;color:#7896b4;font-size:10px}
+.weekday span{line-height:13px}.cells{display:grid;grid-auto-flow:column;grid-template-rows:repeat(7,13px);grid-auto-columns:13px;gap:4px}
+.day,.empty{width:13px;height:13px;border-radius:3px}.day{border:1px solid #0a52960a;background:var(--day);padding:0;cursor:pointer;position:relative}
+.day:hover,.day:focus-visible{z-index:10;transform:scale(1.35);box-shadow:0 2px 10px #1773aa80}
+.day.active{outline:2px solid #113d70;outline-offset:2px}
+.day:hover:after,.day:focus-visible:after{content:attr(data-tip);position:absolute;bottom:calc(100% + 8px);left:50%;transform:translateX(-50%);white-space:nowrap;background:#123e73;color:white;border-radius:7px;padding:8px;font-size:12px;box-shadow:0 4px 18px #123e7350}
+.columns{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.pill{display:inline-block;font-size:12px;background:#e5f3ff;color:#216da7;padding:7px 12px;border-radius:30px;font-weight:800}
+#detail h3{margin:20px 0 10px}.events{padding:0;list-style:none;max-height:440px;overflow:auto}
+.events li{padding:12px 0;border-top:1px solid #e4f0fb}
+.kind{display:block;color:#0d8bd8;font-size:11px;text-transform:uppercase;letter-spacing:.7px;font-weight:800}
+.evlink{display:block;margin:5px 0;font-weight:700;line-height:1.55;overflow-wrap:anywhere}.eventmeta{font-size:12px;color:#7896b4}
+.note{font-size:12px;color:#607e9f;background:#edf6ff;border-radius:12px;padding:13px;line-height:1.6}
+.person{display:grid;grid-template-columns:minmax(125px,190px) 1fr 55px;align-items:center;gap:11px;margin:15px 0;font-size:13px}
+.person a{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:700}
+.bar{background:#dcecfb;border-radius:20px;height:12px;overflow:hidden}
+.fill{height:100%;background:linear-gradient(90deg,#0d8bd8,#3eaff4,#9ed7fa);border-radius:20px}
+.num{text-align:right;font-weight:750}
+footer{text-align:center;font-size:12px;color:#7190aa;padding:28px}
+#notice{color:#567c9e;font-size:14px}
+@media(max-width:720px){main{padding:14px 12px 50px}.metrics{grid-template-columns:repeat(2,1fr)}.columns{grid-template-columns:1fr}section{padding:19px}header{padding:27px}.person{grid-template-columns:125px 1fr 40px;gap:7px}}
+</style></head>
+<body><main>
+<nav><a href="https://github.com/UntameDuck">← UntameDuck on GitHub</a><a href="https://github.com/UntameDuck/.github">Source ↗</a></nav>
+<header><small>🦆 UntameDuck / Interactive GitHub Activity</small><h1>Welcome to my pond!</h1><p>Untamed ideas. Endless ripples. Every contribution makes a splash.</p></header>
+<div class="metrics">
+<div class="metric"><small>Total contributions</small><strong id="total">—</strong></div>
+<div class="metric"><small>Current streak</small><strong id="current">—</strong></div>
+<div class="metric"><small>Longest streak</small><strong id="longest">—</strong></div>
+<div class="metric"><small>Public authors</small><strong id="authors">—</strong></div>
+</div>
+<section><div class="section-head"><div><h2>🌊 Pond Activity</h2><div class="muted">Hover to see daily totals. Click a square for public commits and pull requests.</div></div>
+<div class="legend">Less <i style="--c:#ddebfb"></i><i style="--c:#9ed7fa"></i><i style="--c:#6ec2f7"></i><i style="--c:#3eaff4"></i><i style="--c:#0f99f2"></i><i style="--c:#0d8bd8"></i> More</div></div>
+<p id="notice" role="status">Loading live GitHub contribution data…</p>
+<div class="calendar-scroll"><div class="calendar"><div class="months" id="months"></div><div class="cal-body">
+<div class="weekday"><span></span><span>Mon</span><span></span><span>Wed</span><span></span><span>Fri</span><span></span></div>
+<div class="cells" id="cells" aria-label="Daily contribution calendar"></div></div></div></div>
+</section>
+<div class="columns"><section><div class="section-head"><div><h2>📅 Day Details</h2><div class="muted">Select any day above.</div></div><span class="pill" id="count">—</span></div><div id="detail" aria-live="polite"></div></section>
+<section><h2>🫧 People in the Pond</h2><p class="muted">Linked public default-branch commit authors. Not an organization membership list.</p><div id="people"></div></section></div>
+<p class="note">GitHub organization-filtered contribution totals include more than commits. Day details show only public default-branch commits and opened pull requests; the numbers may not match. Private and undiscoverable activities are excluded.</p>
+<footer id="updated">Waiting for GitHub data.</footer>
+</main>
+<script>
+"use strict";
+const get=id=>document.getElementById(id);
+const shades=["#ddebfb","#9ed7fa","#6ec2f7","#3eaff4","#0f99f2","#0d8bd8"];
+const fmt=n=>Number(n).toLocaleString("en-US");
+const color=n=>n===0?0:n<=2?1:n<=5?2:n<=10?3:n<=18?4:5;
+let data;
+function elem(tag,cls,value){const e=document.createElement(tag);if(cls)e.className=cls;if(value!==undefined)e.textContent=value;return e}
+function pretty(day){return new Date(day+"T12:00:00Z").toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric",timeZone:"UTC"})}
+function safeURL(u){try{const x=new URL(u);return x.protocol==="https:"&&x.host==="github.com"&&x.pathname.startsWith("/UntameDuck/")?x.href:null}catch{return null}}
+function choose(day,button){
+  document.querySelectorAll(".day.active").forEach(e=>{e.classList.remove("active");e.setAttribute("aria-pressed","false")});
+  button.classList.add("active");button.setAttribute("aria-pressed","true");
+  get("count").textContent=fmt(day.count)+" contributions";
+  const target=get("detail");target.replaceChildren();
+  target.append(elem("h3","",pretty(day.date)));
+  const events=data.events[day.date]||[];
+  target.append(elem("p","muted",events.length?String(events.length)+" linked public events":"No linked public commits or PRs were found for this day."));
+  if(events.length){
+    const ul=elem("ul","events");
+    events.forEach(ev=>{
+      const li=elem("li");li.append(elem("span","kind",ev.type==="pull_request"?"Pull request":"Commit"));
+      const url=safeURL(ev.url),a=elem(url?"a":"span","evlink",ev.title);
+      if(url){a.href=url;a.target="_blank";a.rel="noopener noreferrer"}
+      li.append(a,elem("span","eventmeta",ev.repo+" · "+ev.author));ul.append(li)
+    });
+    target.append(ul);
+  }
+  if(events.length!==day.count)target.append(elem("p","note","This list includes only public commit/PR links. GitHub's daily total may include other types of contributions."));
+}
+function calendar(rows){
+ const box=get("cells"),months=get("months");box.replaceChildren();months.replaceChildren();
+ const first=new Date(rows[0].date+"T12:00:00Z"),end=new Date(rows[rows.length-1].date+"T12:00:00Z");
+ first.setUTCDate(first.getUTCDate()-first.getUTCDay());
+ const lookup=new Map(rows.map(x=>[x.date,x]));
+ let month="",index=0,latest=null;
+ for(let week=new Date(first);week<=end;week.setUTCDate(week.getUTCDate()+7),index++){
+   const m=week.toISOString().slice(0,7);
+   if(m!==month){month=m;const label=elem("span","",week.toLocaleDateString("en-US",{timeZone:"UTC",month:"short"}));label.style.left=String(index*17)+"px";months.append(label)}
+   for(let i=0;i<7;i++){
+     const t=new Date(week);t.setUTCDate(t.getUTCDate()+i);
+     const iso=t.toISOString().slice(0,10),day=lookup.get(iso);
+     if(!day){box.append(elem("span","empty"));continue}
+     const b=elem("button","day");b.type="button";b.style.setProperty("--day",shades[color(day.count)]);
+     b.dataset.tip=iso+" · "+fmt(day.count)+" contributions";
+     b.setAttribute("aria-label",pretty(iso)+", "+fmt(day.count)+" contributions");
+     b.setAttribute("aria-pressed","false");
+     b.addEventListener("click",()=>choose(day,b));
+     box.append(b);latest={day:day,button:b};
+   }
+ }
+ if(latest)choose(latest.day,latest.button);
+}
+function people(rows){
+ const target=get("people"),max=Math.max(1,...rows.map(row=>row.commits));target.replaceChildren();
+ rows.forEach(row=>{
+  const person=elem("div","person"),a=elem("a","", "@"+row.login);
+  a.href="https://github.com/"+encodeURIComponent(row.login);a.target="_blank";a.rel="noopener noreferrer";
+  const bar=elem("div","bar"),fill=elem("div","fill");
+  fill.style.width=String(100*row.commits/max)+"%";bar.append(fill);
+  person.append(a,bar,elem("span","num",fmt(row.commits)));target.append(person);
+ });
+}
+async function init(){
+ try{
+ const res=await fetch("./activity-data.json",{cache:"no-store"});
+ if(!res.ok)throw Error("Activity data not published yet ("+res.status+").");
+ data=await res.json();
+ if(!Array.isArray(data.days)||!data.days.length||!data.summary)throw Error("Invalid activity data");
+ get("total").textContent=fmt(data.summary.total_contributions);
+ get("current").textContent=fmt(data.summary.current_streak)+" days";
+ get("longest").textContent=fmt(data.summary.longest_streak)+" days";
+ get("authors").textContent=fmt(data.contributors.length);
+ calendar(data.days);people(data.contributors);
+ get("notice").hidden=true;
+ get("updated").textContent="Last refreshed: "+new Date(data.generated_at).toLocaleString("en-US",{timeZone:"UTC",dateStyle:"medium",timeStyle:"short"})+" UTC · Source: GitHub";
+ }catch(e){get("notice").textContent="Could not load the activity feed: "+e.message}
+}
+init();
+</script></body></html>
