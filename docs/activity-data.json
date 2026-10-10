@@ -1,0 +1,4990 @@
+{
+  "organization": "UntameDuck",
+  "generated_at": "2026-10-10T11:16:23+00:00",
+  "period": {
+    "from": "2025-10-11",
+    "to": "2026-10-10",
+    "days": 365
+  },
+  "summary": {
+    "total_contributions": 517,
+    "current_streak": 2,
+    "longest_streak": 12,
+    "public_repositories_checked": 13,
+    "available_detail_events": 482
+  },
+  "note": "Daily totals are GitHub organization-filtered contributions of discoverable public commit authors. Linked details include public default-branch commits and opened PRs only; counts can differ.",
+  "days": [
+    {
+      "date": "2025-10-11",
+      "count": 0
+    },
+    {
+      "date": "2025-10-12",
+      "count": 0
+    },
+    {
+      "date": "2025-10-13",
+      "count": 0
+    },
+    {
+      "date": "2025-10-14",
+      "count": 0
+    },
+    {
+      "date": "2025-10-15",
+      "count": 0
+    },
+    {
+      "date": "2025-10-16",
+      "count": 0
+    },
+    {
+      "date": "2025-10-17",
+      "count": 0
+    },
+    {
+      "date": "2025-10-18",
+      "count": 0
+    },
+    {
+      "date": "2025-10-19",
+      "count": 0
+    },
+    {
+      "date": "2025-10-20",
+      "count": 0
+    },
+    {
+      "date": "2025-10-21",
+      "count": 0
+    },
+    {
+      "date": "2025-10-22",
+      "count": 0
+    },
+    {
+      "date": "2025-10-23",
+      "count": 0
+    },
+    {
+      "date": "2025-10-24",
+      "count": 0
+    },
+    {
+      "date": "2025-10-25",
+      "count": 0
+    },
+    {
+      "date": "2025-10-26",
+      "count": 0
+    },
+    {
+      "date": "2025-10-27",
+      "count": 0
+    },
+    {
+      "date": "2025-10-28",
+      "count": 0
+    },
+    {
+      "date": "2025-10-29",
+      "count": 0
+    },
+    {
+      "date": "2025-10-30",
+      "count": 0
+    },
+    {
+      "date": "2025-10-31",
+      "count": 0
+    },
+    {
+      "date": "2025-11-01",
+      "count": 0
+    },
+    {
+      "date": "2025-11-02",
+      "count": 0
+    },
+    {
+      "date": "2025-11-03",
+      "count": 0
+    },
+    {
+      "date": "2025-11-04",
+      "count": 0
+    },
+    {
+      "date": "2025-11-05",
+      "count": 0
+    },
+    {
+      "date": "2025-11-06",
+      "count": 0
+    },
+    {
+      "date": "2025-11-07",
+      "count": 0
+    },
+    {
+      "date": "2025-11-08",
+      "count": 0
+    },
+    {
+      "date": "2025-11-09",
+      "count": 0
+    },
+    {
+      "date": "2025-11-10",
+      "count": 0
+    },
+    {
+      "date": "2025-11-11",
+      "count": 0
+    },
+    {
+      "date": "2025-11-12",
+      "count": 0
+    },
+    {
+      "date": "2025-11-13",
+      "count": 0
+    },
+    {
+      "date": "2025-11-14",
+      "count": 0
+    },
+    {
+      "date": "2025-11-15",
+      "count": 0
+    },
+    {
+      "date": "2025-11-16",
+      "count": 0
+    },
+    {
+      "date": "2025-11-17",
+      "count": 0
+    },
+    {
+      "date": "2025-11-18",
+      "count": 0
+    },
+    {
+      "date": "2025-11-19",
+      "count": 0
+    },
+    {
+      "date": "2025-11-20",
+      "count": 0
+    },
+    {
+      "date": "2025-11-21",
+      "count": 0
+    },
+    {
+      "date": "2025-11-22",
+      "count": 0
+    },
+    {
+      "date": "2025-11-23",
+      "count": 0
+    },
+    {
+      "date": "2025-11-24",
+      "count": 0
+    },
+    {
+      "date": "2025-11-25",
+      "count": 0
+    },
+    {
+      "date": "2025-11-26",
+      "count": 0
+    },
+    {
+      "date": "2025-11-27",
+      "count": 0
+    },
+    {
+      "date": "2025-11-28",
+      "count": 0
+    },
+    {
+      "date": "2025-11-29",
+      "count": 0
+    },
+    {
+      "date": "2025-11-30",
+      "count": 0
+    },
+    {
+      "date": "2025-12-01",
+      "count": 0
+    },
+    {
+      "date": "2025-12-02",
+      "count": 0
+    },
+    {
+      "date": "2025-12-03",
+      "count": 0
+    },
+    {
+      "date": "2025-12-04",
+      "count": 0
+    },
+    {
+      "date": "2025-12-05",
+      "count": 0
+    },
+    {
+      "date": "2025-12-06",
+      "count": 0
+    },
+    {
+      "date": "2025-12-07",
+      "count": 0
+    },
+    {
+      "date": "2025-12-08",
+      "count": 0
+    },
+    {
+      "date": "2025-12-09",
+      "count": 0
+    },
+    {
+      "date": "2025-12-10",
+      "count": 0
+    },
+    {
+      "date": "2025-12-11",
+      "count": 0
+    },
+    {
+      "date": "2025-12-12",
+      "count": 0
+    },
+    {
+      "date": "2025-12-13",
+      "count": 0
+    },
+    {
+      "date": "2025-12-14",
+      "count": 0
+    },
+    {
+      "date": "2025-12-15",
+      "count": 0
+    },
+    {
+      "date": "2025-12-16",
+      "count": 0
+    },
+    {
+      "date": "2025-12-17",
+      "count": 0
+    },
+    {
+      "date": "2025-12-18",
+      "count": 0
+    },
+    {
+      "date": "2025-12-19",
+      "count": 0
+    },
+    {
+      "date": "2025-12-20",
+      "count": 0
+    },
+    {
+      "date": "2025-12-21",
+      "count": 0
+    },
+    {
+      "date": "2025-12-22",
+      "count": 0
+    },
+    {
+      "date": "2025-12-23",
+      "count": 0
+    },
+    {
+      "date": "2025-12-24",
+      "count": 0
+    },
+    {
+      "date": "2025-12-25",
+      "count": 0
+    },
+    {
+      "date": "2025-12-26",
+      "count": 0
+    },
+    {
+      "date": "2025-12-27",
+      "count": 0
+    },
+    {
+      "date": "2025-12-28",
+      "count": 0
+    },
+    {
+      "date": "2025-12-29",
+      "count": 0
+    },
+    {
+      "date": "2025-12-30",
+      "count": 0
+    },
+    {
+      "date": "2025-12-31",
+      "count": 0
+    },
+    {
+      "date": "2026-01-01",
+      "count": 0
+    },
+    {
+      "date": "2026-01-02",
+      "count": 0
+    },
+    {
+      "date": "2026-01-03",
+      "count": 0
+    },
+    {
+      "date": "2026-01-04",
+      "count": 0
+    },
+    {
+      "date": "2026-01-05",
+      "count": 0
+    },
+    {
+      "date": "2026-01-06",
+      "count": 0
+    },
+    {
+      "date": "2026-01-07",
+      "count": 0
+    },
+    {
+      "date": "2026-01-08",
+      "count": 0
+    },
+    {
+      "date": "2026-01-09",
+      "count": 0
+    },
+    {
+      "date": "2026-01-10",
+      "count": 0
+    },
+    {
+      "date": "2026-01-11",
+      "count": 0
+    },
+    {
+      "date": "2026-01-12",
+      "count": 0
+    },
+    {
+      "date": "2026-01-13",
+      "count": 0
+    },
+    {
+      "date": "2026-01-14",
+      "count": 0
+    },
+    {
+      "date": "2026-01-15",
+      "count": 0
+    },
+    {
+      "date": "2026-01-16",
+      "count": 0
+    },
+    {
+      "date": "2026-01-17",
+      "count": 0
+    },
+    {
+      "date": "2026-01-18",
+      "count": 0
+    },
+    {
+      "date": "2026-01-19",
+      "count": 0
+    },
+    {
+      "date": "2026-01-20",
+      "count": 0
+    },
+    {
+      "date": "2026-01-21",
+      "count": 0
+    },
+    {
+      "date": "2026-01-22",
+      "count": 0
+    },
+    {
+      "date": "2026-01-23",
+      "count": 0
+    },
+    {
+      "date": "2026-01-24",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "count": 0
+    },
+    {
+      "date": "2026-02-07",
+      "count": 0
+    },
+    {
+      "date": "2026-02-08",
+      "count": 0
+    },
+    {
+      "date": "2026-02-09",
+      "count": 0
+    },
+    {
+      "date": "2026-02-10",
+      "count": 0
+    },
+    {
+      "date": "2026-02-11",
+      "count": 0
+    },
+    {
+      "date": "2026-02-12",
+      "count": 0
+    },
+    {
+      "date": "2026-02-13",
+      "count": 0
+    },
+    {
+      "date": "2026-02-14",
+      "count": 0
+    },
+    {
+      "date": "2026-02-15",
+      "count": 0
+    },
+    {
+      "date": "2026-02-16",
+      "count": 0
+    },
+    {
+      "date": "2026-02-17",
+      "count": 0
+    },
+    {
+      "date": "2026-02-18",
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "count": 0
+    },
+    {
+      "date": "2026-02-23",
+      "count": 0
+    },
+    {
+      "date": "2026-02-24",
+      "count": 0
+    },
+    {
+      "date": "2026-02-25",
+      "count": 0
+    },
+    {
+      "date": "2026-02-26",
+      "count": 0
+    },
+    {
+      "date": "2026-02-27",
+      "count": 0
+    },
+    {
+      "date": "2026-02-28",
+      "count": 0
+    },
+    {
+      "date": "2026-03-01",
+      "count": 0
+    },
+    {
+      "date": "2026-03-02",
+      "count": 0
+    },
+    {
+      "date": "2026-03-03",
+      "count": 0
+    },
+    {
+      "date": "2026-03-04",
+      "count": 0
+    },
+    {
+      "date": "2026-03-05",
+      "count": 0
+    },
+    {
+      "date": "2026-03-06",
+      "count": 0
+    },
+    {
+      "date": "2026-03-07",
+      "count": 0
+    },
+    {
+      "date": "2026-03-08",
+      "count": 0
+    },
+    {
+      "date": "2026-03-09",
+      "count": 0
+    },
+    {
+      "date": "2026-03-10",
+      "count": 0
+    },
+    {
+      "date": "2026-03-11",
+      "count": 0
+    },
+    {
+      "date": "2026-03-12",
+      "count": 0
+    },
+    {
+      "date": "2026-03-13",
+      "count": 0
+    },
+    {
+      "date": "2026-03-14",
+      "count": 0
+    },
+    {
+      "date": "2026-03-15",
+      "count": 0
+    },
+    {
+      "date": "2026-03-16",
+      "count": 0
+    },
+    {
+      "date": "2026-03-17",
+      "count": 0
+    },
+    {
+      "date": "2026-03-18",
+      "count": 0
+    },
+    {
+      "date": "2026-03-19",
+      "count": 0
+    },
+    {
+      "date": "2026-03-20",
+      "count": 0
+    },
+    {
+      "date": "2026-03-21",
+      "count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "count": 0
+    },
+    {
+      "date": "2026-03-28",
+      "count": 0
+    },
+    {
+      "date": "2026-03-29",
+      "count": 0
+    },
+    {
+      "date": "2026-03-30",
+      "count": 0
+    },
+    {
+      "date": "2026-03-31",
+      "count": 0
+    },
+    {
+      "date": "2026-04-01",
+      "count": 0
+    },
+    {
+      "date": "2026-04-02",
+      "count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "count": 0
+    },
+    {
+      "date": "2026-04-04",
+      "count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "count": 0
+    },
+    {
+      "date": "2026-04-06",
+      "count": 0
+    },
+    {
+      "date": "2026-04-07",
+      "count": 0
+    },
+    {
+      "date": "2026-04-08",
+      "count": 0
+    },
+    {
+      "date": "2026-04-09",
+      "count": 0
+    },
+    {
+      "date": "2026-04-10",
+      "count": 0
+    },
+    {
+      "date": "2026-04-11",
+      "count": 0
+    },
+    {
+      "date": "2026-04-12",
+      "count": 0
+    },
+    {
+      "date": "2026-04-13",
+      "count": 0
+    },
+    {
+      "date": "2026-04-14",
+      "count": 0
+    },
+    {
+      "date": "2026-04-15",
+      "count": 0
+    },
+    {
+      "date": "2026-04-16",
+      "count": 0
+    },
+    {
+      "date": "2026-04-17",
+      "count": 0
+    },
+    {
+      "date": "2026-04-18",
+      "count": 0
+    },
+    {
+      "date": "2026-04-19",
+      "count": 0
+    },
+    {
+      "date": "2026-04-20",
+      "count": 0
+    },
+    {
+      "date": "2026-04-21",
+      "count": 0
+    },
+    {
+      "date": "2026-04-22",
+      "count": 0
+    },
+    {
+      "date": "2026-04-23",
+      "count": 0
+    },
+    {
+      "date": "2026-04-24",
+      "count": 0
+    },
+    {
+      "date": "2026-04-25",
+      "count": 0
+    },
+    {
+      "date": "2026-04-26",
+      "count": 0
+    },
+    {
+      "date": "2026-04-27",
+      "count": 0
+    },
+    {
+      "date": "2026-04-28",
+      "count": 0
+    },
+    {
+      "date": "2026-04-29",
+      "count": 0
+    },
+    {
+      "date": "2026-04-30",
+      "count": 0
+    },
+    {
+      "date": "2026-05-01",
+      "count": 0
+    },
+    {
+      "date": "2026-05-02",
+      "count": 0
+    },
+    {
+      "date": "2026-05-03",
+      "count": 0
+    },
+    {
+      "date": "2026-05-04",
+      "count": 0
+    },
+    {
+      "date": "2026-05-05",
+      "count": 0
+    },
+    {
+      "date": "2026-05-06",
+      "count": 0
+    },
+    {
+      "date": "2026-05-07",
+      "count": 0
+    },
+    {
+      "date": "2026-05-08",
+      "count": 0
+    },
+    {
+      "date": "2026-05-09",
+      "count": 0
+    },
+    {
+      "date": "2026-05-10",
+      "count": 0
+    },
+    {
+      "date": "2026-05-11",
+      "count": 0
+    },
+    {
+      "date": "2026-05-12",
+      "count": 0
+    },
+    {
+      "date": "2026-05-13",
+      "count": 0
+    },
+    {
+      "date": "2026-05-14",
+      "count": 6
+    },
+    {
+      "date": "2026-05-15",
+      "count": 0
+    },
+    {
+      "date": "2026-05-16",
+      "count": 0
+    },
+    {
+      "date": "2026-05-17",
+      "count": 0
+    },
+    {
+      "date": "2026-05-18",
+      "count": 0
+    },
+    {
+      "date": "2026-05-19",
+      "count": 0
+    },
+    {
+      "date": "2026-05-20",
+      "count": 0
+    },
+    {
+      "date": "2026-05-21",
+      "count": 0
+    },
+    {
+      "date": "2026-05-22",
+      "count": 0
+    },
+    {
+      "date": "2026-05-23",
+      "count": 0
+    },
+    {
+      "date": "2026-05-24",
+      "count": 0
+    },
+    {
+      "date": "2026-05-25",
+      "count": 0
+    },
+    {
+      "date": "2026-05-26",
+      "count": 0
+    },
+    {
+      "date": "2026-05-27",
+      "count": 7
+    },
+    {
+      "date": "2026-05-28",
+      "count": 14
+    },
+    {
+      "date": "2026-05-29",
+      "count": 0
+    },
+    {
+      "date": "2026-05-30",
+      "count": 0
+    },
+    {
+      "date": "2026-05-31",
+      "count": 1
+    },
+    {
+      "date": "2026-06-01",
+      "count": 7
+    },
+    {
+      "date": "2026-06-02",
+      "count": 2
+    },
+    {
+      "date": "2026-06-03",
+      "count": 0
+    },
+    {
+      "date": "2026-06-04",
+      "count": 1
+    },
+    {
+      "date": "2026-06-05",
+      "count": 8
+    },
+    {
+      "date": "2026-06-06",
+      "count": 7
+    },
+    {
+      "date": "2026-06-07",
+      "count": 16
+    },
+    {
+      "date": "2026-06-08",
+      "count": 1
+    },
+    {
+      "date": "2026-06-09",
+      "count": 1
+    },
+    {
+      "date": "2026-06-10",
+      "count": 1
+    },
+    {
+      "date": "2026-06-11",
+      "count": 0
+    },
+    {
+      "date": "2026-06-12",
+      "count": 0
+    },
+    {
+      "date": "2026-06-13",
+      "count": 0
+    },
+    {
+      "date": "2026-06-14",
+      "count": 0
+    },
+    {
+      "date": "2026-06-15",
+      "count": 0
+    },
+    {
+      "date": "2026-06-16",
+      "count": 0
+    },
+    {
+      "date": "2026-06-17",
+      "count": 0
+    },
+    {
+      "date": "2026-06-18",
+      "count": 0
+    },
+    {
+      "date": "2026-06-19",
+      "count": 0
+    },
+    {
+      "date": "2026-06-20",
+      "count": 0
+    },
+    {
+      "date": "2026-06-21",
+      "count": 0
+    },
+    {
+      "date": "2026-06-22",
+      "count": 0
+    },
+    {
+      "date": "2026-06-23",
+      "count": 0
+    },
+    {
+      "date": "2026-06-24",
+      "count": 0
+    },
+    {
+      "date": "2026-06-25",
+      "count": 0
+    },
+    {
+      "date": "2026-06-26",
+      "count": 0
+    },
+    {
+      "date": "2026-06-27",
+      "count": 0
+    },
+    {
+      "date": "2026-06-28",
+      "count": 0
+    },
+    {
+      "date": "2026-06-29",
+      "count": 0
+    },
+    {
+      "date": "2026-06-30",
+      "count": 0
+    },
+    {
+      "date": "2026-07-01",
+      "count": 0
+    },
+    {
+      "date": "2026-07-02",
+      "count": 0
+    },
+    {
+      "date": "2026-07-03",
+      "count": 0
+    },
+    {
+      "date": "2026-07-04",
+      "count": 0
+    },
+    {
+      "date": "2026-07-05",
+      "count": 0
+    },
+    {
+      "date": "2026-07-06",
+      "count": 0
+    },
+    {
+      "date": "2026-07-07",
+      "count": 0
+    },
+    {
+      "date": "2026-07-08",
+      "count": 0
+    },
+    {
+      "date": "2026-07-09",
+      "count": 0
+    },
+    {
+      "date": "2026-07-10",
+      "count": 0
+    },
+    {
+      "date": "2026-07-11",
+      "count": 0
+    },
+    {
+      "date": "2026-07-12",
+      "count": 0
+    },
+    {
+      "date": "2026-07-13",
+      "count": 0
+    },
+    {
+      "date": "2026-07-14",
+      "count": 1
+    },
+    {
+      "date": "2026-07-15",
+      "count": 0
+    },
+    {
+      "date": "2026-07-16",
+      "count": 0
+    },
+    {
+      "date": "2026-07-17",
+      "count": 0
+    },
+    {
+      "date": "2026-07-18",
+      "count": 0
+    },
+    {
+      "date": "2026-07-19",
+      "count": 0
+    },
+    {
+      "date": "2026-07-20",
+      "count": 0
+    },
+    {
+      "date": "2026-07-21",
+      "count": 0
+    },
+    {
+      "date": "2026-07-22",
+      "count": 0
+    },
+    {
+      "date": "2026-07-23",
+      "count": 0
+    },
+    {
+      "date": "2026-07-24",
+      "count": 0
+    },
+    {
+      "date": "2026-07-25",
+      "count": 0
+    },
+    {
+      "date": "2026-07-26",
+      "count": 0
+    },
+    {
+      "date": "2026-07-27",
+      "count": 0
+    },
+    {
+      "date": "2026-07-28",
+      "count": 0
+    },
+    {
+      "date": "2026-07-29",
+      "count": 0
+    },
+    {
+      "date": "2026-07-30",
+      "count": 0
+    },
+    {
+      "date": "2026-07-31",
+      "count": 0
+    },
+    {
+      "date": "2026-08-01",
+      "count": 0
+    },
+    {
+      "date": "2026-08-02",
+      "count": 27
+    },
+    {
+      "date": "2026-08-03",
+      "count": 1
+    },
+    {
+      "date": "2026-08-04",
+      "count": 12
+    },
+    {
+      "date": "2026-08-05",
+      "count": 18
+    },
+    {
+      "date": "2026-08-06",
+      "count": 15
+    },
+    {
+      "date": "2026-08-07",
+      "count": 0
+    },
+    {
+      "date": "2026-08-08",
+      "count": 0
+    },
+    {
+      "date": "2026-08-09",
+      "count": 0
+    },
+    {
+      "date": "2026-08-10",
+      "count": 0
+    },
+    {
+      "date": "2026-08-11",
+      "count": 2
+    },
+    {
+      "date": "2026-08-12",
+      "count": 0
+    },
+    {
+      "date": "2026-08-13",
+      "count": 3
+    },
+    {
+      "date": "2026-08-14",
+      "count": 3
+    },
+    {
+      "date": "2026-08-15",
+      "count": 0
+    },
+    {
+      "date": "2026-08-16",
+      "count": 0
+    },
+    {
+      "date": "2026-08-17",
+      "count": 0
+    },
+    {
+      "date": "2026-08-18",
+      "count": 0
+    },
+    {
+      "date": "2026-08-19",
+      "count": 0
+    },
+    {
+      "date": "2026-08-20",
+      "count": 0
+    },
+    {
+      "date": "2026-08-21",
+      "count": 0
+    },
+    {
+      "date": "2026-08-22",
+      "count": 0
+    },
+    {
+      "date": "2026-08-23",
+      "count": 0
+    },
+    {
+      "date": "2026-08-24",
+      "count": 0
+    },
+    {
+      "date": "2026-08-25",
+      "count": 3
+    },
+    {
+      "date": "2026-08-26",
+      "count": 0
+    },
+    {
+      "date": "2026-08-27",
+      "count": 0
+    },
+    {
+      "date": "2026-08-28",
+      "count": 0
+    },
+    {
+      "date": "2026-08-29",
+      "count": 0
+    },
+    {
+      "date": "2026-08-30",
+      "count": 0
+    },
+    {
+      "date": "2026-08-31",
+      "count": 0
+    },
+    {
+      "date": "2026-09-01",
+      "count": 1
+    },
+    {
+      "date": "2026-09-02",
+      "count": 0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 0
+    },
+    {
+      "date": "2026-09-04",
+      "count": 0
+    },
+    {
+      "date": "2026-09-05",
+      "count": 0
+    },
+    {
+      "date": "2026-09-06",
+      "count": 0
+    },
+    {
+      "date": "2026-09-07",
+      "count": 0
+    },
+    {
+      "date": "2026-09-08",
+      "count": 0
+    },
+    {
+      "date": "2026-09-09",
+      "count": 0
+    },
+    {
+      "date": "2026-09-10",
+      "count": 0
+    },
+    {
+      "date": "2026-09-11",
+      "count": 0
+    },
+    {
+      "date": "2026-09-12",
+      "count": 0
+    },
+    {
+      "date": "2026-09-13",
+      "count": 0
+    },
+    {
+      "date": "2026-09-14",
+      "count": 0
+    },
+    {
+      "date": "2026-09-15",
+      "count": 0
+    },
+    {
+      "date": "2026-09-16",
+      "count": 0
+    },
+    {
+      "date": "2026-09-17",
+      "count": 0
+    },
+    {
+      "date": "2026-09-18",
+      "count": 0
+    },
+    {
+      "date": "2026-09-19",
+      "count": 0
+    },
+    {
+      "date": "2026-09-20",
+      "count": 15
+    },
+    {
+      "date": "2026-09-21",
+      "count": 2
+    },
+    {
+      "date": "2026-09-22",
+      "count": 13
+    },
+    {
+      "date": "2026-09-23",
+      "count": 14
+    },
+    {
+      "date": "2026-09-24",
+      "count": 0
+    },
+    {
+      "date": "2026-09-25",
+      "count": 0
+    },
+    {
+      "date": "2026-09-26",
+      "count": 9
+    },
+    {
+      "date": "2026-09-27",
+      "count": 19
+    },
+    {
+      "date": "2026-09-28",
+      "count": 11
+    },
+    {
+      "date": "2026-09-29",
+      "count": 10
+    },
+    {
+      "date": "2026-09-30",
+      "count": 11
+    },
+    {
+      "date": "2026-10-01",
+      "count": 20
+    },
+    {
+      "date": "2026-10-02",
+      "count": 19
+    },
+    {
+      "date": "2026-10-03",
+      "count": 30
+    },
+    {
+      "date": "2026-10-04",
+      "count": 35
+    },
+    {
+      "date": "2026-10-05",
+      "count": 117
+    },
+    {
+      "date": "2026-10-06",
+      "count": 14
+    },
+    {
+      "date": "2026-10-07",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "count": 6
+    },
+    {
+      "date": "2026-10-10",
+      "count": 13
+    }
+  ],
+  "events": {
+    "2026-10-07": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: main 커밋 이력 정리를 인계한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/91f293cefb04978c20d400c3d9c0ad360d3c2a74"
+      }
+    ],
+    "2026-10-06": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 검증 결과와 인계 상태를 정리한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/81246c73f882c62f5d4621f636440630d84712ce"
+      }
+    ],
+    "2026-10-05": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "chore: 웹 품질 게이트와 운영 의존성을 보강한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f812c2e7554864b67d5dafdf09ae6a3d1bf88bb0"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 대학·중앙 운영 신호 경보와 대시보드를 완성한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d064a59a096c462bc870d9f2b54fa96af7c51223"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 보안 통제 경보와 DB 대체 경로를 검증한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d5173fbe555bae6bf1b08bf595d1baa9b6792748"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 운영 경보 대응표와 신호 대시보드를 구축한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c71e77b505324e1834b795020e5b7fbde1100a38"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 핵심 주기 작업과 서비스 장애 경보를 확장한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/3c619f02ae32a47021596d60e6fc67b410637222"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 보안 수집과 정기 작업 경보를 안정화한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e0ca81a0943ee885e32ff1a218b603862ef2604d"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 마이그레이션·노션·복구·인증 검증을 자동화한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/4255b11816887e304db55922eccca2ea9af4c552"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 문서 상태와 실행 경로 회귀 검사를 완성한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/4f05ed3596a829fb2a04022de6df967af7be5a7a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 문서·워크플로·브라우저 이식성 검사를 자동화한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9c698bdd6aeba5c418387948ff31d62a482a87fe"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 워크스페이스 의존성과 핵심 계약 검증을 강화한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/5724f5a20a992f5b9edeadf7f0ffa3e18f1bb30d"
+      }
+    ],
+    "2026-10-04": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "chore: 기여자 허용 목록에 팀원 권민준을 더한다 — 두 사람 밖의 작성자·공동저자만 막는다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/295f9e16495181b92b745d6f79f85a4c9c17da6f"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "chore: 커밋 작성자를 ryan-ahn-song 한 사람으로 강제하는 git 훅과 지침을 둔다 — 기여자 그래프에 다른 사람·AI 가 들어가지 않게",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/33ab0ed63e8dc3832bdfe00649774f9370052325"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 2026-10-04 세션 마감 — 인수인계에 이번 세션 결과·검증 수치·다음 할 일(G-10 나머지 → G-8)과 셸 heredoc 역슬래시 함정을 정리한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a6a09db1a06b36b370fb254cf1cc38355110127e"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: T-M6-07 완료로 다음 단계·인수인계·M6·README·노션 변경안·처리흐름도를 맞춘다 — 125/146, A 목록 모두 끝",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9f97362eb14a3e7601d646727dfce067e3ab8fd8"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 개인정보·전형료 흐름을 포함한 최신 화면 42장을 남긴다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f0045fdbd173c4a81d1468644b64856172455707"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 다른 컴퓨터·다른 AI 도구가 이어받을 수 있게 HANDOFF §0(필요한 도구·없을 때 못 하는 것·세팅 순서·작업 방식)을 두고 push 상태를 바로잡는다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/978916b6f40f984982acf183d793e9b9e5c449a1"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 세션 마감 상태에 넘겨받을 때 볼 다섯 가지(미push 커밋과 작성자 확인·시드 재적용·옛 보존 항목 이름·git 경로·처음 읽을 곳)를 한곳에 모은다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e0a2f96ba2c6a79339a5376faaae1041f6dcb9d6"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 외부 실증 게이트 검증과 인계를 마감한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/90931ee9fe7f50c3fbca4fba0682780cda0cb820"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 제출용 개발보고서 정오표 PDF를 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/21b3602a2042bf4849b858cd140aaa69c1bd320b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: CSP Edge 장애 수용 게이트를 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a8093f204037708643d8643a9d6451eab9b215eb"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Pilot 운영 실증 패키지를 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/58ebd0e2c150830957670af2d572dd7d64762a31"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 감사자가 접수번호로 증적 패키지를 연다 — 같은 권한·재인증·사유·열람 기록 (U-51)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/84621568c7a8170cb51dc23b2fe30819e9627128"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 결제가 확인된 원서에 지원자가 전형료 반환·면제 감액을 신청하고 입학처가 큐에서 열람·결정한다 (문서 10 G-5, D-89)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9d6745e01542934acc720240ca080f32fc54696c"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 공통원서에 운영기관의 수집·이용 동의를 받고 대학 제공 화면에 제공받는 자·목적·항목·보유기간·거부권을 알린다 (문서 10 G-3, D-82)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/988c3f3ca065452e1cb381b8848e9c8ad2358762"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 권한 변경 기록의 보관·수집·감사 화면을 완성한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f4f9d881000af5d52cd364ce475a0e2352859064"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 대학 설정의 지원자 고지(처리방침·위탁·보호책임자·문의처·전형료 반환)를 바닥글·검토·결제·접수증에 보인다 (문서 10 G-4·G-6, D-80)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/93986f72d8583fc59108ddfc6ea34a925bfb68d1"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 보존 항목에서 지원자 신원·서류 파일을 접수·미접수로 나눠 접수한 지원자 신원에 10년 하한을 걸고 미접수자 정보는 묶지 않는다 (문서 10 G-13, D-87)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/63c028d0a90f66f7e028a1a52951b3513279e47a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 상담원이 이름·연락처 없이 접수번호·상담 확인번호로 원서 상태만 보고 조회마다 증적번호를 남기는 개인정보 최소 상담 조회를 붙인다 (T-M6-07, D-79)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/314fb624f9bfa879b6ad76dc9cff36be6a9202ba"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 수동 접근성 수용 게이트를 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/0443e3592dfe3b013ba239732d26a12a05a95f70"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 실 PG Sandbox 수용 게이트를 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9efbe72ce8e91a71a6add2bdecb8c61d2d90ccfc"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 여권번호처럼 동의로 받는 고유식별정보 항목은 그 칸 위에서 별도 동의를 받은 뒤에만 적게 한다 (문서 10 G-9, D-88)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e9af8e903617598b9540c39b2c836c39787b53a6"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 외부 PITR과 DR 수용 게이트를 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d8cdbd1cc9de57bd899b343f554cacd93ab29acb"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 외부 PostgreSQL HA 사전 점검을 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/86f70eb43d43c4602d7afbe6ef7b67cc89c0f76a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 외부 부하 실증 프로필과 판정 게이트를 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/acebe742eef9b110d607937873a54fd795088cf9"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 외부 부하 캠페인 종료 게이트를 준비한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/6b92ac5457d30d58d111b193e35f2694a708194d"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 원서 1단계에서 개인정보 수집·이용과 학생부·수능 온라인 제공 동의를 받고 문안 판·해시와 함께 기록한다 (문서 10 G-2·G-11, D-81)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/5d7d53122f1a49fef5c16b95a9a0d73553606f8a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 유출 대응·WORM 검증과 운영 게이트를 묶는다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/3fddfc5ee47b6577c648f1871eea8a23c7349cb3"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 장애·건강 정보를 담은 민감정보 서류는 그 서류 옆에서 별도 동의를 받은 뒤에만 올리고 서류가 있는 동안 동의를 요구한다 (문서 10 G-8, D-85)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/276f2b21f9721d87834037568205c8220dc368c6"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 접수 홈에서 원서 작성 전에 지원 횟수 제한·이중등록 금지를 알리고 확인 체크를 받은 뒤에만 시작한다 (문서 10 G-12, D-86)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ab546ff3614c196128adbbbc1f58c3aff9ce02cf"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 지원자가 공통원서를 화면에서 바로 지운다 — 값·데이터 키·대학별 제공 동의 삭제, 값 없는 발급 증적은 남긴다 (문서 10 G-10 일부, D-82)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/810350c045a518d4b3f6586eb6f285a91490d34b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 지원자가 대학 원서의 개인정보 열람·정정·삭제·처리정지를 요청하고 입학처가 법정 기한 안에 처리 큐에서 회신한다 (문서 10 G-10, D-84)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c7c4f39056bb68dcc76f9f01122c5c104644fe04"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: DB 제약 검증의 앱 역할 권한 규칙에 권리 요청·전형료 반환 표를 넣고 결정 한 번·금액 상한 검사를 더한다 (D-84·D-89)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/0b9a15143d2fb80df7683651e7424d1aea6704b2"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 로컬 Object Storage를 RustFS로 교체하고 호환성을 검증한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e5909e1626075b751ed281e32992afa4bff93fee"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 시드 전형 양식의 위법 「자기소개」 필수 문항을 「학적 변동 사항」으로 바꾸고 설정 검사가 자기소개서류 항목을 경고한다 (문서 10 G-1)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/2ab8e6dbfb9eed14fb9432ad791374e42b2bf0f1"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 유출 판정과 권한 기록 검증의 회귀를 막는다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/76db20f8aa51759722ebea0f7b7b77d61e9cff30"
+      }
+    ],
+    "2026-10-03": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "chore: 잘못 함께 커밋한 시험용 빌드 출력(.dist-flaky)을 추적에서 빼고 무시한다 — 파일은 그대로 둔다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/33ced87c4541455074c797e903cc1d878ea07cd7"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 2026-10-03 세션 결과로 다음 단계·인수인계·M3 를 맞춘다 — 122/146, AI 몫 남은 3개(T-M6-01·06·07)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/7a4a485c7a52f31fcef2b70c7e17722e59ed20f4"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: T-M6-01·06 완료로 다음 단계·인수인계·M6·대장(D-78)·노션 변경안을 맞추고 Pilot 지원 도구 인계 문서를 둔다 — 124/146, AI 몫 남은 1개(T-M6-07)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/bf4397b47b8c92d85cd88730143afc74505433e5"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 개인정보 처리흐름도 — 저장소별 보호·보존과 밖으로 나가는 곳을 구현 기준으로 적는다 (T-M6-11)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9891bb35d3fc486aae917b4e895144b737e40f91"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 상호 TLS 실증 원격 결과를 기록한다 (보안 통제 단계 1)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/accb309d9385e16e3ed6066115c5ce3c102757c3"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 입학처·정보화부서용 대학 온보딩 안내 — 설정·인프라·계정·접수 전 확인 순서 (T-M6-14)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ec64d9f13bdaa7787a0da59ec59fccd4a2937d8a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 토큰 붙인 DAST 원격 결과(run 37108004422)를 기록한다 (T-M5-02 단계 9)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f19992b0ca9aac59bb582b558121dd4ecb3832a6"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Kubernetes 역할을 6종으로 맞추고 sre 의 재시작 권한이 Secret 을 꺼내는 길을 막는다 (T-M5-02 단계 8, D-68)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/8ec71048900b6dd10085260df45da1fc00bbbd18"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Vault 에서 개인정보 키·DB 동적 계정·워크로드 인증서를 받고 대학과 워크로드마다 경로를 나눈다 (보안 통제 단계 4, T-M5-04, D-71)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/56e63e0e3609f340d23351322cf72266b2df9798"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 감사 기록을 Object Lock 버킷에 지울 수 없게 조각으로 내보내고 DB 와 맞춰 변조를 찾는다 (T-M3-03, D-75)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/97294998471c84b96512e4ace8ca1c0fecd4db52"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 같은 시점으로 덤프한 백업을 새 DB 에 복구해 행 수·체크섬·업무 불변식·제약을 원본과 맞추고 매달 돌린다 (T-M5-62)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/641e0789b2301a90a5aaaa7a081971d048a561a8"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 관리자 설정 화면에서 전형·문항·공통원서 연결·제출 서류를 구조적으로 편집해 Config 초안을 만든다 (T-M6-01)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/38b97dd2bad003326b67e08966953e2c066471cd"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 내부 경로를 상호 TLS 로 막고 요청의 대학을 인증서의 대학과 묶는다 (보안 통제 단계 1, T-M5-05·09, D-69)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c513371f38a0df78f7871f6ab0f7443483ee5203"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 대학 Data Plane 이 장애 공지를 소유하고 지원자 전역 배너·상태 페이지와 운영자 발행/해제 화면을 붙인다 (T-M6-06, D-78)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/2531e4a81389a774837d7d9f56a1d4e007ded296"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 로그인 서버 화면 접근성을 고치고 화면 35장을 다시 찍고 토큰을 붙여 DAST 를 돈다 (T-M5-02 단계 9 — 인증 끝)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c6cdd6d4ff8e8dda3619d7b439ed16cbb4d7e85f"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 발급자가 멈춰도 접수가 이어지게 단절 유예를 두고 발급자 정지를 실증한다 (T-M5-02 단계 7, T-M3-06, D-67)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/92ad3b1168b8bfdcc746d297059bedd365aba464"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 비상 역할을 끝나는 시각에 매분 회수하고 켜진 동안 경보하며 DB 비상 접속은 Vault 15분 계정으로 기록한다 (보안 통제 단계 5, T-M5-03, D-72)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/13fe1c66720c8dd7d01c40e834484f8ef2f80cba"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 새 전형 설정을 적용하기 전에 진행 중 원서를 새 양식으로 검사해 깨지면 거절한다 (T-M6-02, D-77)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e5063a0253efd45ee35f8de3dcb525852741c98e"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 새 클러스터가 차트에 필요한 능력을 갖췄는지 실제로 만들어 보는 CSP 사전 점검 (T-M6-03)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/8fce59d5921a44272e25974cf80571218045c868"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 서버 호출을 의존 서비스 호스트로 묶고 메타데이터 주소를 막고 NetworkPolicy 를 kind 에서 자동 시험한다 (보안 통제 단계 2, T-M5-07·01)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/2a4a5f2ee9fa4fe16c890274465b92b20ef97d9f"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 쓰기 세대로 돌아온 옛 Primary 의 쓰기를 DB 가 거절하고 승격은 잠금 아래 하나씩만 올린다 (T-M5-63, D-76)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/8606944b6c8a3da3b74adf835e13326d20fbb4a3"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 원서 항목 값과 공통원서 금고를 레코드별 데이터 키로 봉투 암호화한다 (보안 통제 단계 3, T-M5-06, D-70)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a0ccbc2c000a641adcae72da330ab703c54e4b94"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 인증서·CA·DB 계정의 만료 시각을 지표로 내고 30/14/7/3/1일·갱신 멈춤 경보 규칙을 둔다 (T-M5-65)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/3a4b5cc697712ce82762caae98bf1e332efa0b96"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 전송이 끝난 Outbox 이벤트를 영수증과 함께 월별 파티션 보관 표로 옮기고 13개월 지난 달은 파티션째 지운다 (T-M4-10, D-74)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b00b742cd82ac78b884a9fe4f5753f4dcc3d1a65"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 지원자 화면 본인확인과 위험 차단의 본인확인 해제를 붙인다 (T-M5-02 단계 6, ADR-0009)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/65f7fa98eb4c53c678e2d256cf4f36f6b723afe1"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 개발 PKI 가 OpenSSL 3.0(Ubuntu 24.04)에서도 인증서를 만들게 일 단위 유효기간으로 내려간다 (보안 통제 단계 1)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/910e774fc29cea4dbebfa68d020c63c38845d299"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 실 clamd 가 한도로 먼저 끊어도 서류 워커가 멈추지 않고 스스로 움직이는 PDF 를 거절한다 (보안 통제 단계 6, T-M5-08, D-73)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b90137d4658cc1c5748cefc1c07b6fab322baedf"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 내부 경로 판정 시험이 대학 ID 를 먼저 정하고 모듈을 불러온다 (보안 통제 단계 1)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a7d753301a20388ab6abe530088dee3a341ff84d"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 전체 실행에서 가끔 실패하던 OIDC 공개 경로·감사 WORM 시험을 동시에 도는 시험과 떼어 놓는다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/71930ed63030a17a7008a0fd3c05585139738053"
+      }
+    ],
+    "2026-10-02": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "chore: 이 프로젝트의 npm 캐시를 저장소 안 .cache/npm 에 둔다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/34bc5cd57ba8bbaaa8e75b9f48567bf405e9d659"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: HANDOFF C 드라이브 주의 행의 경로 표기를 바로잡는다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/787abad7081ec9f93480417f7a15ca93e00c35fb"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 인증 착수 준비 — 로컬 OIDC·역할 6종·관리자 MFA·JWKS 캐시의 결정과 순서를 정한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/acab8fed245d5c8a4f31387dc0465d2f76c5e71f"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 대학 API 가 OIDC 토큰을 직접 검증하고 운영 API 를 역할·MFA·재인증으로 막는다 (T-M5-02·10 단계 3)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/872599b83fa1426825a4134d3cdcfa488850205c"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 로컬 OIDC 발급자와 토큰 검증기·JWKS 캐시를 붙인다 (T-M5-02·10 단계 1·2, T-M3-06)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b310ba6fdb8498d6750986f54fa9cb47df9bb4bf"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 운영 콘솔을 관리자 로그인(BFF)으로 바꾸고 브라우저 CORS 메서드 결함을 고친다 (T-M5-10 단계 5, D-65·D-66)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/8799741039e6b243c2c5bd1797cfa5e580d7aff9"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 중앙 API 도 지원자 토큰을 직접 검증하고 토큰의 주체로 공통원서·내 원서를 연다 (T-M5-02 단계 4)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f99767c9e89a3da94ad255933f04bb14411a5c22"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 시험·캡처의 브라우저 프로필을 C 임시 폴더에 쌓지 않는다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/78f1914c4bc73bb9a77cd95cc0fdb17250b9d51a"
+      }
+    ],
+    "2026-10-01": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 미서명 이미지 admission 거부 실증 완료를 반영한다 (T-M5-29)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e85b444ba6df6ca29674e96e4667662813f22eb6"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 실 DB 보안 시험 완료를 반영한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/99f5bfd1613669ad913f7a62b802a0f51e71ecab"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 실제 API DAST 완료를 반영한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b35637bd60f94af42b749f9405fc8033deedca3c"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 원서접수에서 받을 개인정보·필수 절차·법정 고지를 현행 법령 원문으로 정리한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/14043ca56e3cc7dd5136836758f5cd9ab31edd10"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 이미지 키리스 서명 완료를 반영한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d0dc398e2441e478047ade377bd7022a180c66f8"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 이미지와 IaC 보안 게이트 완료를 반영한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f4001b5c54b74ecbe0745ea6a5a9741e9a78ecb4"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 화면 제품화 목표(T-M5-50~56)와 증적 감사 체인 결함 D-62 를 문서에 올린다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9fe506f6ef6d9a882435424f41959b217f31c609"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 200% 확대와 320px 화면에서 가로 스크롤·잘림 없이 쓰게 한다 (T-M5-43·44)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/fc7ce12ed227a48c554e209d340917655a721d58"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Chrome·Edge·휴대전화 흉내로 접근성 시험을 다 돌리고 지원 브라우저를 정한다 (T-M5-47 일부) — 접근성 문서 갱신",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/16ae07c3ff5ba993f0f2fa819f958aa19dba39f6"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: SAST와 릴리스 SBOM 게이트를 추가한다 (T-M5-21·23)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/6a0dfddf1f61e3bd5278c09e3dd5f01638acdeb4"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 개발용 본인 확인·담당자 입력을 개발 서버에 가두고 운영 빌드에서는 막는다 (T-M5-53)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/44f87221898d6edc4757684d5ff97ac51ef15f50"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 날짜·시각 표기를 한 곳에 모으고 이모지·기호 아이콘을 SVG 로 바꾼다 (T-M5-54)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/714c8ce3ab1669bf907526ee49c3eae737d20f16"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 릴리스 이미지 키리스 서명을 추가한다 (T-M5-28)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/bba65a7452f05c9921f219b8669b98329724b592"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 미서명 이미지 admission 거부를 추가한다 (T-M5-29)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/4a2b139c6761c5fa31d1f44fc6d82168cdc42dda"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 불러오는 중·없음·실패를 나누고 장애 안내·화면 제목·404·인쇄를 갖춘다 (T-M5-55)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c49f5b3c2a0039669104b5d715f34c383ccc69e7"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 비밀·의존성 보안 게이트를 착수한다 (T-M5-20·22)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/43d46c20a8754932e254b5c1e536854e8754ea45"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 세션이 끝나기 5분 전에 알리고 한 번에 연장하며 끝나도 입력을 잃지 않게 한다 (T-M5-45)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/48475104a3ef665498e8101a92eeb07112d5dbaf"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 스크린리더가 이름·오류·단계·상태를 제대로 듣게 하고 카운트다운이 매초 끼어들지 않게 한다 (T-M5-42)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/da5b2ab8c5ec34d73a1444bdb7b86d5ad22746ae"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 실 DB 보안 시험 게이트를 추가한다 (T-M5-26)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/398d045fdcbe6d60d11785aa75c2a24033e4577b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 실제 API DAST 게이트를 추가한다 (T-M5-27)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9fb4e40056c786db4987b660bc6faa949a3ccee7"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 오류·검증 문구를 지원자·담당자 말로 바꾸고 오류 요약이 그 칸으로 데려가게 한다 (T-M5-52)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f74aca6563d478fb7018a38585c83151b25a2130"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 이미지와 IaC 보안 게이트를 추가한다 (T-M5-24·25)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/375716349043338795d98eb71dbadc9d55a3517b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 키보드만으로 접수를 끝내고 전 화면 포커스가 보이고 길을 잃지 않게 한다 (T-M5-40·41)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/02864b2004116767c08a310f316ccae6179adc87"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 퍼즐형 CAPTCHA 없이 요청 한도에 걸린 사람이 키보드·스크린리더로 지나갈 길을 준다 (T-M5-46)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/bb5e9d8ec91f8e6a073197677b5fe958be6767ce"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 화면에서 설계·구조 설명과 설계 문서 번호를 걷어내고 문구 검사를 CI 에 붙인다 (T-M5-50)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/354840ee15e8f6d0a1d7ce973fa2b084fa12de2c"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 화면의 내부 코드·식별자·버전을 사람 말로 바꾸고 표시 이름을 계약에 싣는다 (T-M5-51)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/58e51db8cbdfb634d3ad6adaf3f7adec1f944e88"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 흐름 결함과 와이어프레임 차이를 고치고 화면 27장을 다시 찍는다 — 화면 제품화 끝 (T-M5-56)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/da09dc87d2b025b2b3ef0122446b18b7e8739edd"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: admission 실증 이미지도 비루트로 고정한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d64f355138f6fc83bdd539b3dac6ab41a599f135"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: admission 실증이 실제로 API 서버 webhook 을 거치게 한다 (T-M5-29)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/15de2b1f526d34bb48ee085a61e4e69abfc8ab00"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 보안 워크플로 런타임과 완료 상태를 정리한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a9bc772d38c89d38ac800f9561f36caff307dd4d"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 빌려 쓰는 DB 연결이 끊겨도 프로세스가 죽지 않게 한다 (D-63)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/de6b9526de131efeb1380624b6db10b0c7088b50"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 원서별 감사 체인이 시각 역전·동시 기록에서 멀쩡한 기록을 끊김으로 판정하던 결함을 고친다 (D-62)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e226fd8735ab5ed9a97a2dde84cb90bf0d4b3312"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ef49f604aec7ad7d9957fade184972cc7a7cb6df"
+      }
+    ],
+    "2026-09-30": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: README 상단 메뉴에 UI 화면 캡처 폴더 링크를 둔다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/3018a3f6019318ab7a07d28b5ef240b31d58ae63"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: T-M4-34 통과·노드 장애 재측정·완성까지 남은 단계를 문서에 반영한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/2330e2d3aede0c127810fe1c4a21969e071cdd6a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 맡겨진 결정 정리와 노션 반영 변경안을 문서에 반영한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/dbfa388829cc35ae17b8f1f54b550ccdb2961b7c"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 중앙 2시간 실제 단절 시험 통과를 기록한다 (T-M4-35)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/47ea0a7c4fd6d51f4162ccb53ff4918e7f250404"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 지원자 웹·관리자 콘솔 화면 캡처 27장과 다시 찍는 스크립트를 둔다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/744f080fbfb27be7bb1ef93bc4b104481cb53adc"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 흉내·미연결 전수 점검 결과를 문서에 반영한다 (D-55 ~ D-61)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/41996008642a81ec9be1da8a02db822fc7e56502"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: §05 Helm 첨부 v1.2 를 차트에 맞추고 runtime 첨부를 차트에서 만든다 (D-44 · D-49 · D-43 · D-52)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/4d33cbf5ab5398970c31a3cae1de6c01517ceb97"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 공통원서·지원자 화면·운영 콘솔·심장박동·검사 엔진을 끝까지 잇는다 (D-55 ~ D-61)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/693a4519ffdfc76138bb8663ca3a725499490bc0"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 계약에 요청 한도(429)를 넣고 subjectRef 키 ID 상한을 구현에 맞춘다 (D-51 · D-47)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a3368f7c0ca557be2b8ee5ce79ac3c31c7bf3002"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 노드 장애·정비 때 Pod 배치와 PgBouncer 교체가 사용자에게 보이지 않게 한다 (D-52, ADR-0008)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/1317a5ca79991dc37428189e91689fbe2afe9d79"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 리더 잠금을 트랜잭션 잠금으로 바꿔 PgBouncer 풀에서 새지 않게 한다 (D-54)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/388cc54f9222e30a740869344a58e8f4abe3a431"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 원서 상태머신·결제·시각·멱등·서류를 실제 흐름에 연결한다 (D-54 · D-55 · D-56)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b05f62950279c28698bc8b231e5ef1fed3960437"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 노드 장애 시험의 측정 도구 결함을 고치고 PG 지연·노드 장애 결과를 남긴다 (T-M4-34 · T-M4-39)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/10b33eea89ba3a07c367cef9d87d216c90aaeb83"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 중앙 2시간 단절·PG 지연 실제 시간 판과 노드 장애 재배치 시험을 더한다 (T-M4-35 · T-M4-34 · T-M4-39)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/1f95dbb7463a063b811214078cc03464085a9609"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "Update README to modify admission statement",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/98876921e485a7778727e547f06afddb16243133"
+      }
+    ],
+    "2026-09-29": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: Flux GitOps 실증 결과를 반영",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c23229422898b74d07a5a052f6adc7d5d4cc039b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: NAT Adaptive Throttling·Redis 장애 결과를 반영",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/40e0f1d4a33a9d2ed639aeb3fde2d9b69863ff90"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: Peak Mode 예약 GitOps 실증 결과를 반영",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a1de6e7c1c577083090aee77bd7ebcf4e2b05c7d"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 관측성 완료와 로컬 시험 함정을 반영",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/637c4f4d0cb2a00158300b8931cc0bd27fc9ca0b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 다중 노드 장애 시험 결과와 D-52 를 반영",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/882b59a4c12a1231e6356b89b27f2c8536c6abe2"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 업무 KPI·대시보드 완료와 CI 복구를 반영",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/fd1e0d0ea5de969de93fac2de309fc91d7fd241b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Flux Pull GitOps 구조를 추가",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/6bcc4b4d32b57b14cd4c1e6497445cda418f0ea4"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: HPA 커스텀 지표 실증을 완료",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/66d69b24adfe1b7fe6799bd86128efd977ddda16"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Peak Mode 예약을 GitOps desired state 로 전환한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f5d01d111f8a7b9e20e22c23f951fd81da16acc2"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 모든 서비스에 계측과 구조화 로그를 연결한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/506d1d2ca914c20f9500a26d9ea09dfe2b0091eb"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 업무 KPI 지표와 관측 대시보드를 추가한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9bf17c3e3f1b4a9d0baaeaf267557b5d290bbc3b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 지원자 단위 Adaptive Throttling 을 추가한다 (T-M4-40)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/2b7712973f44d42f2d61da3fcd9f0504d15d093f"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: admission-api 의 OpenTelemetry API 선언을 lock 파일에 반영한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ba910066cbc5a6f1713ca7a9697922e60a121d7c"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: CI 통합 시험 전에 개발 시드를 적용한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/0fd942332124c9e615f067328af6106844082502"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: CI 통합 시험용 활성 마감정책을 시드한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/6defabbfe2dc6c3cb7f768dc66b0e4ec6b85f21d"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: CI 통합 잡이 앱 역할을 만들지 않아 실패하던 것을 고친다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/2594163ce5fad3921715a98cf6c81d5fc85cfb38"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: Flux Helm 배포 호환성을 보강",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9d2c8bf2c8f5451a9d065701ceef545351bb9e7f"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: Flux values 병합 순서를 바로잡아",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e84e5c4b90255d25c651c5936c14be04625146cd"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: PgBouncer 노드 재시작 복구를 보강",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/49b71b9e8560cdd67f2d7e581cae04c00ecb71ec"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 노드 장애 때 매달린 DB 연결이 살아남은 Pod 까지 멈추지 않게 한다 (T-M4-39)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/4d0cb33368d0f5efe8d8e0a9173163da6fe031ca"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 멱등 기록 실패가 API 프로세스를 죽이지 않게 한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/8058ba3c73df07bc0dbd888c4aa38576c0a6d104"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 업무 지표 카운터를 기동 때 0 으로 만들어 첫 증가를 잃지 않게 한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/1cbb1c8fe3ddf1cf4fcc746ffa3f3cb4c1ec4ed8"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 중앙 이벤트 본문을 CloudEvents 스키마에 맞춘다 (D-50)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f5fe6bc2a982b8eda9aadfb0cead1622f76a8d60"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: NAT 시험 판정을 인수기준과 용량 관찰로 나누고 Redis 장애 시험을 추가한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d9722529d278ab1e8acc6496f1ec3df86487ee6e"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: Peak Mode 예약 GitOps 로컬 실증 시험을 추가",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/feef902d8830ef321347e6bb8f439235525d23f4"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 관측 대시보드를 Grafana 에서, 취소 반영을 중앙까지 확인한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d3cf6bee46b9aca4d65e0d0dbc2f3af5e3217f33"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: 로그 우회 금지 검사와 kind 관측성 검증을 추가한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ab7f0e582dd9097bcce8780a1ff424845df8e83b"
+      }
+    ],
+    "2026-09-28": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Peak Mode 비핵심 작업 억제를 구현",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/6e61280c572773ba44f144780e37b56634b855ce"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: PgBouncer 연결 상한 검증을 완료",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a089080ee354fba89730a0746c77f71eb3d90c24"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 접수 API OpenTelemetry 계측을 연결",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/1234e67e6bc187651115151da844cc6a0dcdbf5b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "test: Object Storage 장애 격리를 검증",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/09cc38daf9deb2dc70ed739ac4135d7de90e22a7"
+      }
+    ],
+    "2026-09-27": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: Docker 복구 선행 조건을 보강",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/69cd44fa4ec17fca422d4ee724cb9b273e418c8d"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: Docker 복구 후 검증 절차를 기록",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/251a66227fbebb8b71486d3ecdc5b6a33ac06725"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: M4 착수 현황과 다음 개발 목표 설정",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/cce4427351167c2c0e0a4ccfdf36945a9cd96741"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 결정 확정에 맞춰 노션 반영 항목을 구체적인 수정으로 바꾼다 — 결정 대기 0건",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/fcb945b16f27d5b1aea0d431aefeb4b633cec1a1"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 v1.0 본문 반영 · 현재 상태와 다음 목표(결정 8건) 갱신",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/92b8d6aeb8adb5bb5c02f0fc2c4a7e3e3d7f5990"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 §01 운영 리스크 반영 — D-31·D-33 종결, 반영 목록 자동 갱신",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e3ded54847fa63de0b9c5f51520a49055c58a4b3"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 §02 ERD·DDL 본문 반영 — 첨부 DDL 교체는 D-29 확정 뒤",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/a431827b2d5e38a67b98e2fd25687a162488728a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 §02 첨부 DDL 을 v1.2 로 교체 — 저장소 0001 을 첨부와 같게, 임시 마이그레이션 정리",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/75275d32655a905808df4533e2bc25690fa9f999"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 §03 OpenAPI 본문 반영 — 구현 경로·공통 요구, 첨부 yaml 은 따로",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b90bb284741894d66b304a0ed525b0245a893c46"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 §03 첨부 yaml 을 v1.2.0 으로 교체 · 본문 갱신 — 대장 12건 종결",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/7cf404c02234cbc9647ca94f8a54a54ffbfa586b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 §06 보안정책 · §09 STRIDE 반영 — D-28·D-41 종결",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b421c96f8034aebf44a794d1ddf0d822af4e4728"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 반영 마무리 · M3 종료 선언",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e6ef605334656eaa4b71e0a3d9b1e41304a855b2"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 노션 첨부 7종 배치 — D-5 종결, 첨부와 구현 차이 D-43·D-44 등록",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/1d6bfa822ca8715c785e285d00c474aae2790d30"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 문서 인덱스의 M4·M5 태스크 수를 마일스톤 문서와 맞춘다 (28·35)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/70a14fa406dc9ca890a74350206beecfc470463b"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 인수인계 문서(HANDOFF.md · AGENTS.md) — 다른 도구로 넘길 때 규칙·환경·다음 작업을 한 장에",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/85874dc2e553476803951016dbeaf958db0a9f36"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 작업 현황 갱신 — G1 구현 중, 진행 순서·노션 반영·첨부 방법 확정",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/43ed749f79affd024cd8a4bd9705845ff35b5d76"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: M4 Helm 차트 · 서비스 이미지 · kind 로컬 환경 (T-M4-01~04, 격리 시험 준비)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e0d65f9eb828c38560c34fee86ed298a8d2a3b98"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: M4 장애 시험과 PgBouncer 기반을 추가",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e7179d374fe470f6d5223d4bebf6906d8d5ca306"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 감사 기록 삭제 차단 — DB 역할 분리 · 추가 전용 트리거 (D-41)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/7ca8678884c99a534d2b0d15db0c50b283afa108"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 결정 8건 확정 — 한 전형 한 모집단위(D-29) · 접수 원서 10년 보존(D-38)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/dcc89308d91eacddfac4ca0610bd96a0400afbe7"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 결제 = 접수 — 결제가 확인되면 서버가 접수한다 (D-42)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/6ff0554e9f919663395b2ca896ac6afb8196b192"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 결제 자동 정합화 — PG 콜백 · 재확인 워커 · 대조 스케줄 (D-40)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9e8fca871ecdc7b8a4e80d12bc16fb11609d7ffa"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 마감 정책 수명주기를 상태 컬럼으로 — D-23, 0006",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d4938ae561cef21140fd9f2ae88aa24b93ec54c5"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 병합 DDL v1.2 — 노션 §02 첨부 교체 후보",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/900467071313f586a3054a05d032f182debf30c8"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 저장소 OpenAPI yaml 을 구현에 맞춘다 — v1.2.0, 누락 경로 시험",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c72519e5a26537eba384b83e59116e9f8e922e6e"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: self-check 에 소유권 검사 — 남의 원서의 접수번호·결제·이력이 보였다 (D-28 누락)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/4e79f73f0ada46fc57ab744e40b0b0e622817cf3"
+      }
+    ],
+    "2026-09-26": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: M3 종료 점검과 M4 착수 준비",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ab1ff3abd54b7c37900cebe68ad112ef2c513131"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Autonomous Mode — Health Gate · 운영 배너 · Sync Lag (T-M3-06 부분)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b518142664e95b78cbbf56264fb8750258d8b752"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Dependency Circuit Breaker — T-M3-08 완료",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9f37556cb10c7fd36475dde8660fec30c9573853"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Retention Matrix — 보존기간 하한과 정책 검증 (T-M3-10)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/1898dd0cce30f935d557b625a2436dd4433872fc"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 마감 연장 워크플로 · 서명된 활성화 기록 — T-M3-15 완료, T-M3-14 백엔드",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ee40e34502ec66ae085e327790736c56e4942d55"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 목적별 가명 참조 — 중앙 식별자 분리 (T-M3-09)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/1eaa4ea7c188ccee433f08970011fb59b262dff6"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 입학처 관리자 콘솔 — 설정 승인 · 마감 연장 · 대조 · 증적 (T-M3-11~14)",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/f5cc6090c23f4ba023030cc531fc4907225b9383"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 지원자 화면의 원서 조회에 신원을 싣는다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/95138fdfc86a39a3f72eee7477fef09fb4ae68f8"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "refactor: KRDS 공통 부품을 packages/krds 로 옮긴다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/83fe885748c1bbc7a5a59a368c6cd4bdf3840375"
+      }
+    ],
+    "2026-09-23": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 현재 상태로 문서 전면 갱신",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/72c787ba070d6c29f7ac6e7f02c82b5458643dc2"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Config Diff · Rollback · Freeze — T-M3-02 완료",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/d5798d9af07055437d3125b0ee5b75081a2d0fee"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 원서 취소 — D-7 판정과 구현",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/474137a860df05e3cbfde1c6b022fac26121be73"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 인가 누락과 하드코딩된 기본값을 걷어낸다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/119d64a3e89de468d12b0bef7385f445fe1fbfe4"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 활성화 시각을 DB 가 찍게 한다 — 시계가 둘이면 안 된다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/6d5b8421cd7fc21f5f03c635b21cb43fa51d2f6c"
+      }
+    ],
+    "2026-09-22": [
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "Add files via upload",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/26f8fd01867b2c2e760c3422e7c7b89fee9e47fa"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "chore: 원서로(K-Admission) 모노레포 초기 골격",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/42f4e79bb910288dada67208cfb352f643288bb1"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: M0 T-M0-07 완료 반영",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/b13fd8e49ae1942dadd2d4ae1d5986e0ae043e62"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 다음 단계 문서 신설",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c89cc79a392e245c0b1107ed031e8a963a1b1dbc"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "docs: 마일스톤별 세부 태스크 분해 + 노션 동기화 규칙 신설",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9edc9478228286d10caff20c9971221fac6eeb05"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat(admission-api): M1 접수 Core — DDL 비의존 구간 구현",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/e25dd36c3bf7214bd0e559b8de476b81aabb3870"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat(admission-api): Postgres 어댑터 · 자동저장 · 감사 hash-chain",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c86208293ecd886935858e34df3ff89589cea611"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat(admission-api): 결제 어댑터와 Finalize 트랜잭션",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/aacc6bb23817c679cc862bb5ecd4ed1911a3fbf9"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat(admission-api): 대학별 추가문항 Schema Registry",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/5d736d6a0ccb8858147626ae4eda4e777176cdd5"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat(admission-api): 서류 업로드 파이프라인",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ff47481ba658fb9335b2b8b836fa3b73bc125162"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat(db): DDL 적용 및 정합성 제약 행동 검증",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/5e06ccd586a768e5a07584ba88e10d8ffe87844a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat(frontend): JSON Schema 동적 폼 — §A5 를 UI 까지 증명",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/9d7ddf1c0acc6cc8b2b5767098614ff5563a0c94"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat(frontend): KRDS 기반 6단계 원서접수 화면",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/03ed3483cfa77fd3b0952f3ba86422b477e60cce"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Deadline Policy Engine 과 Config 2인 승인 — M3 착수",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/ba3f36798ed1419c0a3d5bacf38ffd70bf2cfa46"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: event-relay 와 중앙 Sync Gateway — Demo Gate 5 통과",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c838a2594ea11cdd4a2c14c7a208cc7fc9129339"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Evidence Package — 접수 과정 재구성",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/38c053bcb10c3cb8b30aa2512ae684c23e9eb6a1"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Reconciliation Center — 4-way 대조와 Exception Queue",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/26b3ccd0da85ad406be5c731be023eb802f3b303"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: Support Self-check 와 Common Profile Vault — M2 백엔드 완료",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/79dc58f5919245e13c5e6f3a40fcf604ed094d9a"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 노션 canonical 첨부 3종 배치 및 계약 정합화",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/af90e6aef2452555932be7240004030e180ebd57"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "feat: 서류 업로드 화면과 AV 검사 워커 — M2 완료",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/0977bd3ff5a0ee4c3d9e1c1688abef90b42719f3"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "fix: 승인 없는 설정 활성화와 중복 불일치를 DB 가 막게 한다",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/0e2db18c7bbcd567213aed811ad93303667043f5"
+      },
+      {
+        "type": "commit",
+        "repo": "Wonseoro",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Wonseoro/commit/c0b754ba613715534a439cc704a46464dac9566b"
+      }
+    ],
+    "2026-09-20": [
+      {
+        "type": "commit",
+        "repo": "Dshub",
+        "author": "ryan-ahn-song",
+        "title": "Add files via upload",
+        "url": "https://github.com/UntameDuck/Dshub/commit/d7032718e2b90b50a3d17f70c6d317fbaafc1026"
+      },
+      {
+        "type": "commit",
+        "repo": "Dshub",
+        "author": "ryan-ahn-song",
+        "title": "Revise README for DSHUB project overview and features",
+        "url": "https://github.com/UntameDuck/Dshub/commit/3a7ff52261c643f70bfb9a09f85d151a8ecd0a50"
+      },
+      {
+        "type": "commit",
+        "repo": "Euterpe",
+        "author": "ryan-ahn-song",
+        "title": "Add files via upload",
+        "url": "https://github.com/UntameDuck/Euterpe/commit/00908a65abde4c00d0129065b75fd3dedaf3ada8"
+      },
+      {
+        "type": "commit",
+        "repo": "Euterpe",
+        "author": "ryan-ahn-song",
+        "title": "Create LICENSE",
+        "url": "https://github.com/UntameDuck/Euterpe/commit/885708c2e48dfbafabe2e03c1818e6cc5c6b4892"
+      },
+      {
+        "type": "commit",
+        "repo": "Euterpe",
+        "author": "ryan-ahn-song",
+        "title": "Revise README for clarity and structure",
+        "url": "https://github.com/UntameDuck/Euterpe/commit/af20c410fd8d0b823c3d95479b84894b26020fce"
+      },
+      {
+        "type": "commit",
+        "repo": "Euterpe",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Euterpe/commit/d650affce92d19ca1c1eff7925a70f15a5203cbc"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Add files via upload",
+        "url": "https://github.com/UntameDuck/Renew/commit/4d10ea3cf6fd9fa376e09fdb58b79ca8265c4fe5"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Add files via upload",
+        "url": "https://github.com/UntameDuck/Renew/commit/6346f4aaffc5ab64d0c8f492026cc1a8f2d9cb3f"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Delete docs/assets directory",
+        "url": "https://github.com/UntameDuck/Renew/commit/fb9d953e3d565a4cece6f61a49bda8cf23a54db3"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Renew/commit/60db819adaedd7ed41e74bc1bf0e1573ba412781"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Renew/commit/94631310b9d038568bd5f9dcb2bc185283fed037"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "Add files via upload",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/a0e95bcf03ff589b3c2500a1719b8ff191c4b156"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/0c25f9702a8bdd583b4e99cfd048fa851020cfb0"
+      },
+      {
+        "type": "commit",
+        "repo": "Talos",
+        "author": "ryan-ahn-song",
+        "title": "Add files via upload",
+        "url": "https://github.com/UntameDuck/Talos/commit/613833ce4e1a7f2fe104fab5f71aa4852860b25d"
+      },
+      {
+        "type": "commit",
+        "repo": "Talos",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Talos/commit/a901c3eb526b88729bcd02ba684b02a18e59d417"
+      }
+    ],
+    "2026-08-14": [
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: change footer",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/eb3358f0536c77e5aacbca1f15e7bd8a5d9631a9"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: footer modification",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/a8ce558e0d3f857ca402cfac9c45adc7853fbba1"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "Merge pull request #4 from ryan-ahn-song/feature/ui-improvements",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/ede98fcfea3b7a496378fb21445515e23bf681ca"
+      }
+    ],
+    "2026-08-13": [
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: center hero CTA buttons",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/8b7ca4ae2c8bc60dab7509f091ffa8c5b11c4862"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: exclude rejected proposals from the selected count",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/51d7a68a0492233cd9762ac9d839419688acaf40"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: stop listing trashed proposals on my page",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/26ab71e479f7248e6f2cb4b57e454024dfc50044"
+      }
+    ],
+    "2026-07-21": [
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "feat: add admin member role management",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/23a601d81ba7752e84c437870574a2511ea67203"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "feat: allow official replies before selection",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/29212a4636a8f14856736cac50708dcbc332c748"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "feat: improve official reply visibility",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/6d9274ce120e6ff249cb3027259d7cb212cebd15"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "feat: make official replies transactional",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/e13bfc473aff16643c990d5b706b662ea338e319"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: disambiguate proposal author relationship",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/e5e6d35fa961337853261424ba0685fc19b7be37"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: harden Supabase function execution",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/abb489f12fa91d9cf7388e39687240e70f3e2276"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: normalize official reply relation",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/3788ca6da5fed3ea1b7fdba8c873a64e11375454"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: restore admin status controls",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/e038968db70e053e14691ef05e3fb11216760fba"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: restore proposal interaction workflows",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/fe030e7548260945fe8d6ef4e9b0b0559d4a85b8"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: surface official reply validation",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/3d25b4d9799ddf89c51a616cd0ddcce845e9fd16"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "refactor: unify admin proposal handling",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/9d85a39ee1f65734a60c9af598cfecc5160e97c5"
+      }
+    ],
+    "2026-07-20": [
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "feat: harden student proposal operations",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/f8d0691b2d138c0d102dd6d87b45899ea4a63704"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "feat: rebuild admin operations console",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/f772e156e6148e50eda4272d27136e7a3a2f096f"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: restore active proposals before database rollout",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/e6b73e04ab4bf117eb7fe7c14fea18f878f4cd53"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: restore admin operations before database rollout",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/cbe1bc569c1bb69daf2587a4c0a76c7cefcdecc2"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "DevTeamARK",
+        "title": "fix: support proposal creation before rpc rollout",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/9d2a86d25b98df0d2976b58e30ad3c333a5240d9"
+      }
+    ],
+    "2026-07-14": [
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "summit button fixed",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/14bbc661c7a65d5eab0ee3d0a1a52e703de0f05b"
+      }
+    ],
+    "2026-06-09": [
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix(login): call router.refresh() before push to /dashboard",
+        "url": "https://github.com/UntameDuck/Panacea/commit/3eb883034df5960d2f3585e9938ba3ac8ff722b8"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/b24e3686b61bb9213dfc01f53e17c7d2494bc464"
+      }
+    ],
+    "2026-06-06": [
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "chore: set favicon.png as site icon via metadata.icons",
+        "url": "https://github.com/UntameDuck/Panacea/commit/38a9328b3d55c10703cdf0dc4f8a9d9c44ba739c"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Create LICENSE",
+        "url": "https://github.com/UntameDuck/Panacea/commit/77cccc1b3fca3b05762b0b0f86a6b4d50f8d5266"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "docs: rewrite README in English with badges, competition context, and team roles",
+        "url": "https://github.com/UntameDuck/Panacea/commit/c7541e32470b5479fc3a44f96d3a8cb4c0874a00"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "feat: body atlas full fix + organic user flow improvements",
+        "url": "https://github.com/UntameDuck/Panacea/commit/5fa138bc0d00e234702b48ca0c7b6f2b1a6a55f9"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "feat: complete all 10 remaining feedback items (mobile nav, redeems, countdown, pagination, alerts, delete, AI map, geolocation, influenza filter)",
+        "url": "https://github.com/UntameDuck/Panacea/commit/8d4591b953015d417608a638524456762f666133"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "feat: connect all pages to Supabase and wire up all dead UI",
+        "url": "https://github.com/UntameDuck/Panacea/commit/6a6769a0e13deac961b229245c9b68a5ff85a090"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "feat: Gemini transition, heatmap data loop, dead links, and copy fixes",
+        "url": "https://github.com/UntameDuck/Panacea/commit/32ef40da77837f1d5777204bed4866e75fef6c0e"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "feat: symptom recording, TTS voice fix, geolocation heatmap, disease tag normalization",
+        "url": "https://github.com/UntameDuck/Panacea/commit/da89199cb7b2ff51a997e53205bb444721559581"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: landing page accessible without login",
+        "url": "https://github.com/UntameDuck/Panacea/commit/e1f302a6a049c7b187df3be0db102445d7e2cf3a"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: remove duplicate inline footers from ai-guidance and guardian pages",
+        "url": "https://github.com/UntameDuck/Panacea/commit/301552973f04a9b1966e74c221f7bf2791f6b99c"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: replace .catch() chaining on Supabase upsert with try/catch in login",
+        "url": "https://github.com/UntameDuck/Panacea/commit/f1fdd4dd4cb666881dc1ee5bdaf447fafbb5a8c5"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: resolve all lint errors, build failure, and factual inaccuracies",
+        "url": "https://github.com/UntameDuck/Panacea/commit/3027e610bfbf46eb3c9df874846b2788a1d2bfa5"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: TopNav reflects auth state — shows Login when signed out, Profile when signed in",
+        "url": "https://github.com/UntameDuck/Panacea/commit/21dc2dbca09c8fa4a93c42b60d55dc7a6fe68098"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: wrap useSearchParams in Suspense boundary on ai-guidance page",
+        "url": "https://github.com/UntameDuck/Panacea/commit/53f8b13e7941537f4539f11279f2b6409960a48b"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "security: OWASP hardening and react-doctor code quality pass",
+        "url": "https://github.com/UntameDuck/Panacea/commit/7f9ade5e410c6aaf336fdac898b9f101c57a5a38"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "security: remove dead grok.ts and strengthen .gitignore",
+        "url": "https://github.com/UntameDuck/Panacea/commit/c4c5e769a7f993601c8430cc83656b4c21d1229f"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "Add MIT License to the project",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/bcec5b0287c8b33a002f09b6a3175d8f4cf23b8f"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "Create README.md with project details",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/610160cf36c2ce3f95590ee2c40ed9d19145b6c6"
+      }
+    ],
+    "2026-06-04": [
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: set session cookies directly on redirect response in auth callback",
+        "url": "https://github.com/UntameDuck/Panacea/commit/ce0420801abee86d448b8bbc81ceaf3d82a68978"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: add favicon asset to git",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/fd304ec0307e8e89badfe19c0cf1219c32ed9972"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: apply custom favicon",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/4d5653e007b47a3d526c8cb18e50879bfdb1a6dd"
+      }
+    ],
+    "2026-06-02": [
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: move Wrapper out of ResetPasswordPage to prevent input focus loss",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/eff3c1ddf5b2db453ec784e92b22e7542ec00b86"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: resolve race condition in reset password session detection",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/b0c8926928010c0f13d4c3ab982a67c85810f502"
+      }
+    ],
+    "2026-05-31": [
+      {
+        "type": "commit",
+        "repo": "Dshub",
+        "author": "Inter129",
+        "title": "Merge pull request #1 from Inter129/patch-1",
+        "url": "https://github.com/UntameDuck/Dshub/commit/61426c9137e51f3ec0e1414cbb992ac36f1dd92f"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "@",
+        "url": "https://github.com/UntameDuck/Panacea/commit/9c80b5d9571ec51bf1fbae0e3823c6f4f4ddc95d"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: restrict portrait overlay to touch devices only",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/9628d05df35e2606d4e54ab821fb8e2002a79992"
+      }
+    ],
+    "2026-05-28": [
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "debug: show actual Supabase error on profile save failure",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/e3cf8516cdbdb964bf9a6efedc198657009f16fb"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: add admin delete button for proposals",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/a8fc7ccf863420d53b0067cc03ad15b17fc90ff2"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: add email confirmation page (/auth/confirm)",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/70a4239723b0451ebd77d6f48e7a2f482787a69b"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: add profile editing (name, grade, class) to MyPage",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/51c6f4f5e300319fba0b0179e59fa0dac5dbf7a8"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: allow admin to dismiss reports",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/622fdfd49f84bed86e5d97737937c8a6bb47a467"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: auto-redirect after email confirmation on LoginPage",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/8cb6c2f94239a356e72c74fd4c3804f67c5db780"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: dynamic year and season in home hero label",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/4f8ed49d64df9317a99dd6d739138a6beec70415"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: show portrait orientation warning overlay",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/1b0a43c4ca36c991d199b9f4913d95ddd4978dc5"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: patch Headers.prototype globally to block non-ISO-8859-1 header values",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/b3da6a86988d5c07b6fabcf780e1194c6a727c0f"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: prevent stuck buttons from loading state and add disabled visual",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/ba080e3d19f846e9d334549d1f721cccfb93e2dc"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: throttle view count increment to once per 30min per proposal",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/c4f2333807d61632f30dfda76c6da6b551f9e2ce"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "security: patch P1-P3 vulnerabilities",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/332de3dfbd07706c7693fd77a48e40e7c4973b2f"
+      }
+    ],
+    "2026-05-27": [
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "design: move privacy policy left, float copyright to right of footer row",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/def6d0fa311571b3b52f1580bc5399637764a17f"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: add forgot/reset password flow and fix contact email",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/6454e71523b09adbc03a435218340ecbb93f16b2"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: connect FabCTA participant count to Supabase profiles stat",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/75257dcaa27a4ea6a88ff8a602698456de090456"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: full app — proposals, archive, notifications, security hardening",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/a81a7e85c239e65336c7f7cd29db97355b2164da"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "feat: link Quackk08 text to github.com/Quackk08 in footer",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/5f0f92ebc379782ced09852cc0614085b7461730"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: handle empty {} error from Supabase SMTP failure on signup",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/616dd0c5fef5f5e716889e442f9c5083a37c1397"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: lower minimum password length to 8 characters",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/4e1f6486d5370cbc0454cc66652ed4e283d03de6"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: prevent footer copyright text from wrapping",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/87e2359892dea5f68a937c4286b360b29a1f8d3d"
+      },
+      {
+        "type": "commit",
+        "repo": "Studentvoice",
+        "author": "ryan-ahn-song",
+        "title": "fix: resolve non ISO-8859-1 header error on login",
+        "url": "https://github.com/UntameDuck/Studentvoice/commit/9fbb1f114b7cf24418cacfe66d2751c1716dbf7b"
+      }
+    ],
+    "2026-08-11": [
+      {
+        "type": "commit",
+        "repo": "Euterpe",
+        "author": "ryan-ahn-song",
+        "title": "initial setup",
+        "url": "https://github.com/UntameDuck/Euterpe/commit/018c7b68e6c50323f7de5b94ce3d66da1a211d3e"
+      },
+      {
+        "type": "commit",
+        "repo": "Euterpe",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Euterpe/commit/07207913597ef3c08608a406d0f9c0a92bac6eef"
+      }
+    ],
+    "2026-08-06": [
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: adjust today's Mission from a sentence, read on the device",
+        "url": "https://github.com/UntameDuck/Renew/commit/a7de93d97b3f93dc4fbb2be64f58c575a701dabd"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: keep a generated ladder in one group, and explain a capacity dead end",
+        "url": "https://github.com/UntameDuck/Renew/commit/af83d0626f4680e1dc3d9e7eb991e8815f9b65fb"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: keep a ladder when the model omits the indoor/outdoor label",
+        "url": "https://github.com/UntameDuck/Renew/commit/f3c52a15823cc0abe68bd246948fd91d2e5e6657"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: let a Mission adapt to any step of the person's own Route",
+        "url": "https://github.com/UntameDuck/Renew/commit/35dc802f17f3f6c93e396f4487cf1fb1aa83f364"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: let a Route be regenerated once its steps have been recommended",
+        "url": "https://github.com/UntameDuck/Renew/commit/e233e35f1423b67f120dea7db9d5b62930db5333"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: make starting a Mission and submitting a Check-In look like they worked",
+        "url": "https://github.com/UntameDuck/Renew/commit/b5155558884b1d7efe3f4f03a8ccc92868a69cd4"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: refuse to build a frontend that cannot sign anyone in",
+        "url": "https://github.com/UntameDuck/Renew/commit/b806eb8acb089c4ed36dd4cd4f316e3089edfc69"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: stop blaming the connection for every failed Mission start",
+        "url": "https://github.com/UntameDuck/Renew/commit/5162239618977344c9de5bd2dc2d4983fd7a40bb"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: stop telling people to check in when that is not what went wrong",
+        "url": "https://github.com/UntameDuck/Renew/commit/f9228e7e28e4e10635d8b2462368d3c2918b3e38"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "style: give the calendar page the same edge spacing as every other page",
+        "url": "https://github.com/UntameDuck/Renew/commit/237fe0f12c1920d7847906cd30be3df92b5290e9"
+      }
+    ],
+    "2026-08-05": [
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "chore: ignore local claude code tooling config",
+        "url": "https://github.com/UntameDuck/Renew/commit/d65b1b28e23794de436f3540064c88eb9ffc97b9"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "chore: share the Supabase MCP server config with the project",
+        "url": "https://github.com/UntameDuck/Renew/commit/3ab86484273a42925bb3f0a574b4d233640fd800"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: add a Calendar tab for everything planned and everything done",
+        "url": "https://github.com/UntameDuck/Renew/commit/cb8490daab701a952885636fc528d4076898bd37"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: add account recovery, privacy page, and structural page fixes",
+        "url": "https://github.com/UntameDuck/Renew/commit/a68e2d7759589c6bcce165869f0d6ce42b655a8c"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: add an opt-in on-device model for wording, behind the rules",
+        "url": "https://github.com/UntameDuck/Renew/commit/35ed210977832b4b3522eaac86188173c1d9aa8a"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: gate the app shell on hydration and harden the mobile drawer",
+        "url": "https://github.com/UntameDuck/Renew/commit/cd0ff2e1ea5d6590e7df8d36d6cd232968666db4"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: give missions a one-to-two month horizon alongside today's",
+        "url": "https://github.com/UntameDuck/Renew/commit/fe4eb17caec666371f2703863bd95c8fade8866f"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: merge Places and Shared Activities into one Nearby tab",
+        "url": "https://github.com/UntameDuck/Renew/commit/de6c9d1e2c898aaf715f48bed134400f4c9ff085"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: queue mission status changes made offline",
+        "url": "https://github.com/UntameDuck/Renew/commit/271c11b1678be7797823ae72643a0a53290d1ca3"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: rework today page walkthrough, notices, and schedule editor",
+        "url": "https://github.com/UntameDuck/Renew/commit/7e9ae6e7eaff21bf47c26af0605390897e1bdb7c"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: run the mission live on today with photo verification",
+        "url": "https://github.com/UntameDuck/Renew/commit/a5c40914582d7007143afddacc5eee22a5d96aa7"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: serve the app shell offline with a service worker",
+        "url": "https://github.com/UntameDuck/Renew/commit/048a3731638825d33e124e1681cd64c10dc5afd0"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: show how today's step was chosen, before showing the step",
+        "url": "https://github.com/UntameDuck/Renew/commit/e56e58e36d387454205600c09610cd4743225505"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: surface offline sync state in the app header",
+        "url": "https://github.com/UntameDuck/Renew/commit/c1cb24dbea66dfad2e12ab8026b3b0d81eaeacf8"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: harden the daily flow pages against silent failures",
+        "url": "https://github.com/UntameDuck/Renew/commit/dfdd2738afa6802a2be53d360e6f4d1fcdc40543"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: honest states and queued writes across content pages",
+        "url": "https://github.com/UntameDuck/Renew/commit/f25438a72dd3ac1e271de505e7ab53b76725ca81"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: keep the Gemini key out of URLs and bound the wait it can cause",
+        "url": "https://github.com/UntameDuck/Renew/commit/88acfc36c8dfabdbd09962ba824894e965497d94"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: point community activities at the real reviewed venues",
+        "url": "https://github.com/UntameDuck/Renew/commit/7e006edd44255f94ea59a0ebfd8a0fff32284390"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: present an unconfirmed sign-up as a notice, not a failure",
+        "url": "https://github.com/UntameDuck/Renew/commit/6462d99ebc7896cfdaf7e8efcc157bad1b66439b"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: recommend from the vision's route and polish responsive details",
+        "url": "https://github.com/UntameDuck/Renew/commit/2023e9f2041ef393d9f3fb5feaece7e2017759c3"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: report missing database configuration instead of crashing",
+        "url": "https://github.com/UntameDuck/Renew/commit/880547d74018e50643fb1cde7574327968749d75"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: say sign-in is unavailable before someone submits a password",
+        "url": "https://github.com/UntameDuck/Renew/commit/5b2c155e9f923f55d9ea229a50b7e8836d0d75cc"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: start any route size by adapting from the day's recommendation",
+        "url": "https://github.com/UntameDuck/Renew/commit/d11921fa855a2528dae968e2c48441c77265b2c8"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: stop a Mission losing its place on every reload",
+        "url": "https://github.com/UntameDuck/Renew/commit/7767c56b5bee89eb6e68d3b55462d7d0d0db52ad"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: verify a route step belongs to the route before changing its status",
+        "url": "https://github.com/UntameDuck/Renew/commit/3d42ac91956b250ea17c4e43261fdf6e27c571bb"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "test: give the frontend a test suite, starting where it already lost data",
+        "url": "https://github.com/UntameDuck/Renew/commit/ea12f9d396a306320cc4f98e93fad25c21b5d2ff"
+      }
+    ],
+    "2026-08-04": [
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "build: drop the maxDuration override",
+        "url": "https://github.com/UntameDuck/Renew/commit/61c4904bea160d176e10c63eafbbf9a4db035f15"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "build: give the API function headroom beyond the default timeout",
+        "url": "https://github.com/UntameDuck/Renew/commit/46bdf22b55542c3e3dcea0f944f6ef0872ce8202"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "chore: ignore local secret env files and tool output",
+        "url": "https://github.com/UntameDuck/Renew/commit/2d9428b9fbe4c6c16609a17d727f64ea57e14049"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "chore: refresh the lockfile after an install",
+        "url": "https://github.com/UntameDuck/Renew/commit/44dd7760818961e058b9b38808f13b5e65ab9a93"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "ci: print install diagnostics on vercel",
+        "url": "https://github.com/UntameDuck/Renew/commit/fa10a7991722fc04f7a93ef2f5c71cb482519219"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "ci: revert install diagnostics on vercel",
+        "url": "https://github.com/UntameDuck/Renew/commit/9f846609f0d86355f09b97948e1c03a271d59479"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: add photographs for the remaining Mapo places",
+        "url": "https://github.com/UntameDuck/Renew/commit/2a5eff4ba81a85698543d9af7c9301e3486469d1"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: answer a Vision with no direction with five orienting steps",
+        "url": "https://github.com/UntameDuck/Renew/commit/1bb9df9f0a9355de6fd4f749013ab1e7147bed43"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: let every onboarding question be skipped",
+        "url": "https://github.com/UntameDuck/Renew/commit/14c5ef144e59174dcda4d04bc46465f285dd1a22"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: play a clip on hover for each landing place tile",
+        "url": "https://github.com/UntameDuck/Renew/commit/85b8203ed6bc46b23576eca76926be3996225886"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: play the intro video in the landing hero",
+        "url": "https://github.com/UntameDuck/Renew/commit/01fdf71cda23e8af89fdd40773ab58c2abd0c5b9"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: report AI configuration from the health endpoint",
+        "url": "https://github.com/UntameDuck/Renew/commit/ceb237f6f876f2a06f8489c565a3c7f14b2792e7"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: seed real Mapo places, each with one small step",
+        "url": "https://github.com/UntameDuck/Renew/commit/df5a3b920834b9779d3e18b650abdf8531020877"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: show a photo on each place card",
+        "url": "https://github.com/UntameDuck/Renew/commit/a78432632f5badc9eeed0bac58991929613730fe"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: wire frontend pages to backend services",
+        "url": "https://github.com/UntameDuck/Renew/commit/36161922a467f338ba1b20ea55ae3654424551a2"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: install with npm ci on vercel",
+        "url": "https://github.com/UntameDuck/Renew/commit/9b44def860e2b0a839aa7f671b923b61289025d6"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: make Reset actually reset for guests",
+        "url": "https://github.com/UntameDuck/Renew/commit/22760de030f82164ba6a923006d4fd2e1629f657"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "fix: rest place tiles on a still of their own clip",
+        "url": "https://github.com/UntameDuck/Renew/commit/bd0465fc76b812071389b9ee58c22d1d7868d334"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: route every API path to the function, not just the first segment",
+        "url": "https://github.com/UntameDuck/Renew/commit/3820e155e820bcf29a47d466d4a203cb30af8fc4"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: say when there is nothing to plan instead of spinning forever",
+        "url": "https://github.com/UntameDuck/Renew/commit/1153ab1be70746e7fe2169369cca57d2261fadea"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: show the real generated ladder on the onboarding review step",
+        "url": "https://github.com/UntameDuck/Renew/commit/4466b451cbec2bc802fbee0996406e23c6b28936"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: wait for a profile before onboarding reads or writes",
+        "url": "https://github.com/UntameDuck/Renew/commit/5caddb754b2e33a0dde941928c2df682ccfb63c2"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Merge remote-tracking branch 'origin/frontend-mod' into integration/frontend-mod-into-2026_08_04_11",
+        "url": "https://github.com/UntameDuck/Renew/commit/b3f287adb387960658a83cff07a9b80d0e713929"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "chaste-ganza",
+        "title": "Modifications on UI and user experience",
+        "url": "https://github.com/UntameDuck/Renew/commit/ad673a93693cf4bc3aa8fea3085b3257390be943"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "perf: re-encode the landing hero at a lower bitrate",
+        "url": "https://github.com/UntameDuck/Renew/commit/9b1ae96dfec2a417c4692d34b86c359fb2c9ad51"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "perf: serve place clips at 720p behind poster stills",
+        "url": "https://github.com/UntameDuck/Renew/commit/1c15ae7884abb39a9b2f4f4c0bb729028ea7ea8a"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Update vercel.json",
+        "url": "https://github.com/UntameDuck/Renew/commit/59e94b9f86f247f1176fc4fe9ab5f0d9f893e2a3"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Update vercel.json",
+        "url": "https://github.com/UntameDuck/Renew/commit/7934861ed79959e3d88d5c86f6581e30827a9340"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Update vercel.json to define services and rewrites",
+        "url": "https://github.com/UntameDuck/Renew/commit/e67500ea97dfc67c0693a54ecb36a0bc9ad97a65"
+      }
+    ],
+    "2026-08-03": [
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "build: deploy the frontend and API to Vercel as one project",
+        "url": "https://github.com/UntameDuck/Renew/commit/74f4bedf481a092c17324d82d09760085486b390"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: add community activities (join/cancel/report)",
+        "url": "https://github.com/UntameDuck/Renew/commit/9f1302f53345a8036f982f203d05422aef83b283"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: add oversight for generated ladders, and update the guardrail",
+        "url": "https://github.com/UntameDuck/Renew/commit/ee852f04ee1fad29361df1c1332ac9820d21ab30"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: add Supabase Auth with guest profile linking",
+        "url": "https://github.com/UntameDuck/Renew/commit/ed016a2ae77f9d7166be3bedec2b668da3a00d9d"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: add weekly insight (Weekly Review)",
+        "url": "https://github.com/UntameDuck/Renew/commit/54af6c89f4db42932ea504a15a3f12a1f99261e8"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: back saved places, Support, and the offline queue with real endpoints",
+        "url": "https://github.com/UntameDuck/Renew/commit/493657f0c114b209c98d5752c7c2b96820e48df0"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: connect frontend pages to the Supabase backend",
+        "url": "https://github.com/UntameDuck/Renew/commit/d266256846e98d95fe014f1b38f271e2f1ba3ece"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: connect the frontend to Supabase Auth with guest linking",
+        "url": "https://github.com/UntameDuck/Renew/commit/4f1c95a08c461225c2f36af5f11b6f1460676e4f"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: drive missions, places, and the route preview from the backend",
+        "url": "https://github.com/UntameDuck/Renew/commit/698df58a2f769e4f9104fe0ba23cc64e6e519d30"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: generate the Life Route ladder from the user's own Vision",
+        "url": "https://github.com/UntameDuck/Renew/commit/ae15d22488c8e1ac6906785436df75f111641f91"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: drop cached demo content left over from earlier releases",
+        "url": "https://github.com/UntameDuck/Renew/commit/2f06a71f8ef363ac8f53a46ef4d08bcb38525650"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: let the Today dashboard use the backend's recommendation",
+        "url": "https://github.com/UntameDuck/Renew/commit/b46dac93e414a8c9d8778b6da645ba02108a18ef"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: run Gemini on Flash-Lite so a day of use does not exhaust the quota",
+        "url": "https://github.com/UntameDuck/Renew/commit/94fd36940209ad70a5aedf40902c5be70e8a30ea"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: stop discarding good generated ladders on false rejections",
+        "url": "https://github.com/UntameDuck/Renew/commit/a52ebc2ba1c2d99b9c419d8671a71041bc184f98"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "fix: stop serving one person's generated ladder to everyone else",
+        "url": "https://github.com/UntameDuck/Renew/commit/b88f4daa1b8fa38f778ebaf9d5b23848b6a3b0da"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "chaste-ganza",
+        "title": "Re-arrangement for frontend components",
+        "url": "https://github.com/UntameDuck/Renew/commit/8675ebc41344c9766f7b5e52e12cc8e0297780fa"
+      }
+    ],
+    "2026-08-02": [
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Check-In done",
+        "url": "https://github.com/UntameDuck/Renew/commit/20f17e8eda6ce9d9510d06a49bbec62170f8cae4"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "chore: prepare ReNew MVP architecture",
+        "url": "https://github.com/UntameDuck/Renew/commit/80dcb43102fd56f131023a1f553cf9f4994d7005"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Community Detail done",
+        "url": "https://github.com/UntameDuck/Renew/commit/73246da22fee470826f400c0b77b507940e8b2df"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Community done",
+        "url": "https://github.com/UntameDuck/Renew/commit/0215eb80c49186b0a16a82dfd7516ab539c8548c"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "copy: highlight everyday mental well-being",
+        "url": "https://github.com/UntameDuck/Renew/commit/72be6df8a2689c99f9703dcb5e20f22cdce42efc"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "docs: add commit guidelines",
+        "url": "https://github.com/UntameDuck/Renew/commit/0e82387cf6fa11ee9599999c6e80a980400b8a00"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "docs: require mobile responsive support",
+        "url": "https://github.com/UntameDuck/Renew/commit/800c7ebd13fc0bbf1fc26041df200655906b7252"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: add Gemini-backed place recommendation",
+        "url": "https://github.com/UntameDuck/Renew/commit/7f5254d209b9bdb233946f93ec7ec3068fc79a99"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: add mission planner and activity insights",
+        "url": "https://github.com/UntameDuck/Renew/commit/db1d5414f085b1084c573bedb56846e6f39dab96"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: build ReNew editorial landing page",
+        "url": "https://github.com/UntameDuck/Renew/commit/3d748012c2ae87689b7bf43e416721e7e0e49840"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "biro425",
+        "title": "feat: implement backend daily core loop against shared contracts",
+        "url": "https://github.com/UntameDuck/Renew/commit/e78aa1372f6cb0eb1a41d52fab3ccb7aa83ec81c"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "feat: localize landing page in English",
+        "url": "https://github.com/UntameDuck/Renew/commit/564a3ad3dbb577584ff848df378571102b5ff02f"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Initial project setup",
+        "url": "https://github.com/UntameDuck/Renew/commit/89412bc806c803e3348c1e32a314b54d0ccbff75"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "initial setup",
+        "url": "https://github.com/UntameDuck/Renew/commit/b92da57fd370eb2eaff934a050549ebcc39383d9"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Insights done",
+        "url": "https://github.com/UntameDuck/Renew/commit/642dc3da6c77c378a6ffdb5807985e2087017734"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "landing page done",
+        "url": "https://github.com/UntameDuck/Renew/commit/eb02499d39c79db97c11010ba5ac196814ab31a6"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Life Dashboard done",
+        "url": "https://github.com/UntameDuck/Renew/commit/fa052d159dbba0be55194b1c33d9c43bfc0dc277"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Life Route done",
+        "url": "https://github.com/UntameDuck/Renew/commit/229515204d51eaf8e107739b4c1b287bbb577422"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Life Vision done",
+        "url": "https://github.com/UntameDuck/Renew/commit/e9ebdd7f36a11624343f90434d4c534b40465c2e"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Mission done",
+        "url": "https://github.com/UntameDuck/Renew/commit/5c93c534138187d653ed4bf1487e77ad7ef65403"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Onboarding done",
+        "url": "https://github.com/UntameDuck/Renew/commit/4f56bc9a5ef51f771c95af8b19910ebd4f1bcb24"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Place Detail done",
+        "url": "https://github.com/UntameDuck/Renew/commit/ca3487ac69548e22696eecaf907a3ba1ddeed48c"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Places done",
+        "url": "https://github.com/UntameDuck/Renew/commit/16d56314fc06de9c48e0d1ddedb3bd1863ba179a"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Recommendation done",
+        "url": "https://github.com/UntameDuck/Renew/commit/5f3675d4f1181816e2c1062665f1e050e5a08f33"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Reflection done",
+        "url": "https://github.com/UntameDuck/Renew/commit/317f23a3fabd000de74628bb5f283b53ce8b4788"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Settings done",
+        "url": "https://github.com/UntameDuck/Renew/commit/44b86af3cc9d5db93fc7196249873691ecf307e2"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Sign In done",
+        "url": "https://github.com/UntameDuck/Renew/commit/16be2788133726b4a2ebb8d8444daef3db96b357"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Support done",
+        "url": "https://github.com/UntameDuck/Renew/commit/08a7587d06eb3da465edae6057dc3df8d7653d02"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Today done",
+        "url": "https://github.com/UntameDuck/Renew/commit/d09a53c45a2503eb74d53ea50feb34b85e98ba7a"
+      },
+      {
+        "type": "commit",
+        "repo": "Renew",
+        "author": "ryan-ahn-song",
+        "title": "Update project title in README.md",
+        "url": "https://github.com/UntameDuck/Renew/commit/730950d39fa0d153350a35318ec7051dbd5566cb"
+      }
+    ],
+    "2026-08-25": [
+      {
+        "type": "commit",
+        "repo": "Talos",
+        "author": "ryan-ahn-song",
+        "title": "BoundAuth: Phase 0-2 + BoundKey simulator + BoundAttack + experiments",
+        "url": "https://github.com/UntameDuck/Talos/commit/c4750701ea17146d5d8de1e8ae3e89af7ca2c890"
+      },
+      {
+        "type": "commit",
+        "repo": "Talos",
+        "author": "ryan-ahn-song",
+        "title": "docs: rework README for TALOS branding",
+        "url": "https://github.com/UntameDuck/Talos/commit/fa0e155b9c89f006e03db18b99d1f07ff4126a3d"
+      },
+      {
+        "type": "commit",
+        "repo": "Talos",
+        "author": "ryan-ahn-song",
+        "title": "Initial commit",
+        "url": "https://github.com/UntameDuck/Talos/commit/31a4a2c8898d6b76e7f2fcd718bf1c1ff24c3eaa"
+      }
+    ],
+    "2026-04-21": [
+      {
+        "type": "commit",
+        "repo": "Dshub",
+        "author": "Inter129",
+        "title": "fix/년도 표기 수정",
+        "url": "https://github.com/UntameDuck/Dshub/commit/f097b2717c2c0bb01dec6235c94fa5460ff02501"
+      }
+    ],
+    "2026-09-21": [
+      {
+        "type": "commit",
+        "repo": "dju-whitehat-ctf-writeup",
+        "author": "ryan-ahn-song",
+        "title": "Add files via upload",
+        "url": "https://github.com/UntameDuck/dju-whitehat-ctf-writeup/commit/e01072f9d362ea711b55636945a17ed13e1a9878"
+      },
+      {
+        "type": "commit",
+        "repo": "dju-whitehat-ctf-writeup",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/dju-whitehat-ctf-writeup/commit/843f92ab1a5b282d1171659d13b0cb965ac17879"
+      }
+    ],
+    "2026-10-09": [
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "ryan-ahn-song",
+        "title": "Add initial content to README.md",
+        "url": "https://github.com/UntameDuck/Serene/commit/73b7770b18275c8fe50eb3f8c4e067b20ccdeddb"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "ryan-ahn-song",
+        "title": "Merge pull request #1 from UntameDuck/backend",
+        "url": "https://github.com/UntameDuck/Serene/commit/805a2cee31e720ef5443cf801c5e7a0b62eede33"
+      },
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "ryan-ahn-song",
+        "title": "Merge pull request #1 from UntameDuck/frontend",
+        "url": "https://github.com/UntameDuck/Sturun/commit/f704d14cbe92fc3749484674178f8d24bcebc2b4"
+      },
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Sturun/commit/683d24dc20abfc02e42abf259bd5689e2afca1eb"
+      },
+      {
+        "type": "pull_request",
+        "repo": "Serene",
+        "author": "ryan-ahn-song",
+        "title": "Backend",
+        "url": "https://github.com/UntameDuck/Serene/pull/1"
+      },
+      {
+        "type": "pull_request",
+        "repo": "Sturun",
+        "author": "ryan-ahn-song",
+        "title": "frontend",
+        "url": "https://github.com/UntameDuck/Sturun/pull/1"
+      }
+    ],
+    "2025-10-18": [
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "m1nxun",
+        "title": "backend",
+        "url": "https://github.com/UntameDuck/Serene/commit/d38b0e93d836d0038c0acd0964d2c2728ac12b04"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "m1nxun",
+        "title": "fn",
+        "url": "https://github.com/UntameDuck/Serene/commit/3417ba2378f1d827e2f2954c27f7b003b61a5deb"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "m1nxun",
+        "title": "frontend",
+        "url": "https://github.com/UntameDuck/Serene/commit/d16cd2f3f828ed8075f7928cd48905a5fbda5932"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "biro425",
+        "title": "Merge branch 'main' into backend",
+        "url": "https://github.com/UntameDuck/Serene/commit/3d86638e28b5af0471b9c2157a5ede76076e29e0"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "biro425",
+        "title": "py 오류 수정",
+        "url": "https://github.com/UntameDuck/Serene/commit/d256e6539cb560b5fe093d490d803a59f47488ed"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "biro425",
+        "title": "react native",
+        "url": "https://github.com/UntameDuck/Serene/commit/f0104dc6004131360a323ecbe13cac2477120748"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "m1nxun",
+        "title": "v3",
+        "url": "https://github.com/UntameDuck/Serene/commit/718a037c5d64834dbf90f68d7f05f10024dd9299"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "biro425",
+        "title": "기초 개발 환경",
+        "url": "https://github.com/UntameDuck/Serene/commit/64cc87d973865921d3454ce697386a13c546d4e2"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "biro425",
+        "title": "네비게이션바 제작",
+        "url": "https://github.com/UntameDuck/Serene/commit/96b1f9d02d5cc375646d49c000bb8a125af26fb9"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "biro425",
+        "title": "보안 로직 추가",
+        "url": "https://github.com/UntameDuck/Serene/commit/83c94048993b7347cb330b76f2571c374cf22a58"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "biro425",
+        "title": "이미지 딸칵",
+        "url": "https://github.com/UntameDuck/Serene/commit/694a220011142c5cc1b35fd874718c727394abc0"
+      },
+      {
+        "type": "commit",
+        "repo": "Serene",
+        "author": "biro425",
+        "title": "텍스트 추출 및 감정 분석 ai",
+        "url": "https://github.com/UntameDuck/Serene/commit/7bbcb172bb5e08ba6f65f228b81d261bc9edcfde"
+      }
+    ],
+    "2025-10-29": [
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "m1nxun",
+        "title": "frontend",
+        "url": "https://github.com/UntameDuck/Sturun/commit/cdf40bf1bea2a3761af0fff3392e6735d468f943"
+      }
+    ],
+    "2025-10-28": [
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "biro425",
+        "title": "backend finish",
+        "url": "https://github.com/UntameDuck/Sturun/commit/f1cc8a7cd81350a10b187b368465a034a7f5176f"
+      },
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "biro425",
+        "title": "feat(map): KakaoMap WebView, dynamic SDK loader, pedestrian routes; RouteScreen live location & path; gemini: SDK + HTTP fallback + model discovery; update Kakao API key",
+        "url": "https://github.com/UntameDuck/Sturun/commit/f359a732203fd5ef2dab826f7ecfe9df689d0fce"
+      }
+    ],
+    "2025-10-27": [
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "biro425",
+        "title": "불필요한 패키지 제거",
+        "url": "https://github.com/UntameDuck/Sturun/commit/493b083bb80f055047e0e7168221c8c93c51df3b"
+      }
+    ],
+    "2025-10-26": [
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "biro425",
+        "title": "base",
+        "url": "https://github.com/UntameDuck/Sturun/commit/d4bdba2f890bd4593b92af9079c1d954d0f7be2e"
+      },
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "biro425",
+        "title": "커뮤니티 게시물 업로드 업뎃",
+        "url": "https://github.com/UntameDuck/Sturun/commit/d3a9bfb23814c286ee760ba9508bf1365bc33d10"
+      }
+    ],
+    "2025-10-23": [
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "biro425",
+        "title": "nav+main",
+        "url": "https://github.com/UntameDuck/Sturun/commit/11f98abee998982cdcafde332760e1149b872a2d"
+      }
+    ],
+    "2025-10-15": [
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "biro425",
+        "title": "next.js+react 개발환경",
+        "url": "https://github.com/UntameDuck/Sturun/commit/8202ef08a73ec4dc2dd8cab3beace9f3bb56d66b"
+      },
+      {
+        "type": "commit",
+        "repo": "Sturun",
+        "author": "biro425",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Sturun/commit/6ecdeb0b89bc7d13b065e03b83bbc26758bb2cd1"
+      }
+    ],
+    "2026-05-14": [
+      {
+        "type": "commit",
+        "repo": "IEC-EdgeCloudIotModel",
+        "author": "ryan-ahn-song",
+        "title": "Add full project files with cloud analytics and archive integration",
+        "url": "https://github.com/UntameDuck/IEC-EdgeCloudIotModel/commit/030258cecbc4c5e37252fab98b8d46fba8671048"
+      },
+      {
+        "type": "commit",
+        "repo": "IEC-EdgeCloudIotModel",
+        "author": "ryan-ahn-song",
+        "title": "Delete IMPLEMENTATION_SUMMARY.txt",
+        "url": "https://github.com/UntameDuck/IEC-EdgeCloudIotModel/commit/d568cc4ff1a0814ef827e266c25474132b41c37f"
+      },
+      {
+        "type": "commit",
+        "repo": "IEC-EdgeCloudIotModel",
+        "author": "ryan-ahn-song",
+        "title": "Delete plan.agent.md",
+        "url": "https://github.com/UntameDuck/IEC-EdgeCloudIotModel/commit/efeb68b3fd699fa678d5df6ba5fd43214c3b28f4"
+      },
+      {
+        "type": "commit",
+        "repo": "IEC-EdgeCloudIotModel",
+        "author": "ryan-ahn-song",
+        "title": "Initial commit",
+        "url": "https://github.com/UntameDuck/IEC-EdgeCloudIotModel/commit/05e9186f995d6f04de150cf3971abb1aacbbf3b7"
+      },
+      {
+        "type": "commit",
+        "repo": "IEC-EdgeCloudIotModel",
+        "author": "ryan-ahn-song",
+        "title": "Initialize repository, add .gitignore, and update README with English instructions",
+        "url": "https://github.com/UntameDuck/IEC-EdgeCloudIotModel/commit/adaa5cd2ca0d02765a7b00dd90d1793a705e307a"
+      },
+      {
+        "type": "commit",
+        "repo": "IEC-EdgeCloudIotModel",
+        "author": "ryan-ahn-song",
+        "title": "Remove development roadmap and team roles from README",
+        "url": "https://github.com/UntameDuck/IEC-EdgeCloudIotModel/commit/86112563fc0e7f81e90fe518e6cf3ae9f68f4f84"
+      }
+    ],
+    "2026-06-08": [
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: password reset link now reliably reaches new-password page",
+        "url": "https://github.com/UntameDuck/Panacea/commit/e5e08cff286472b030b59d0a9676b04882d70e1f"
+      }
+    ],
+    "2026-06-07": [
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "chore: sync contributors",
+        "url": "https://github.com/UntameDuck/Panacea/commit/22c4fde11775fa3825e3e8f3ab839ed045ceb0ad"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: replace invalid UNIQUE cast with expression index in user_missions",
+        "url": "https://github.com/UntameDuck/Panacea/commit/f71e3687450dc80d799596d27bddee63e67793ff"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: use DATE column for user_missions.completed_at",
+        "url": "https://github.com/UntameDuck/Panacea/commit/b966ce233d0576bc4a6927797d0d9f85f6b7ba75"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Panacea/commit/c136f01e8215a153f719882d591eddeb2ce0af9e"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Panacea/commit/85bfbb963978b5511d26a14779462cbb070932e7"
+      }
+    ],
+    "2026-06-05": [
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "feat: switch auth to email+password with email verification",
+        "url": "https://github.com/UntameDuck/Panacea/commit/4a19faf2f6dbfddbf85898e04fed2e53af229ea5"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "fix: clear stale session cookies when deleted user's JWT is detected",
+        "url": "https://github.com/UntameDuck/Panacea/commit/4a6bcd6441b266a89ca5412d9cdc61be9d1801da"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "merge: integrate feature/guardian and feature/heatmap UI into main",
+        "url": "https://github.com/UntameDuck/Panacea/commit/96eaca6f3e81c39c44d541d855f5987bdd2879c1"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "refactor: switch to GEMINI_API_KEY, convert all UI text to English",
+        "url": "https://github.com/UntameDuck/Panacea/commit/91964fd79ce06e8c5e69c847bd7ce438b93f19f3"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "restore: re-add gemini.ts removed by revert",
+        "url": "https://github.com/UntameDuck/Panacea/commit/b7434ef7fb87c70d9df007c8bb61c41cca14542d"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Revert \"merge: integrate feature/guardian and feature/heatmap UI into main\"",
+        "url": "https://github.com/UntameDuck/Panacea/commit/7aeab70c5b6a5c9ebe3706a710fa8a10f571bee6"
+      }
+    ],
+    "2026-06-01": [
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Add /auth/confirm step: verify button + 3s countdown to dashboard",
+        "url": "https://github.com/UntameDuck/Panacea/commit/b5d15b8780c8dfbeff023bfc35def83607a5a2a0"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Fix email link auth: add /auth/callback route handler",
+        "url": "https://github.com/UntameDuck/Panacea/commit/2466e089880f9cd301765f6673eb209e2c696a0f"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Fix typo in README about mobile-first interface",
+        "url": "https://github.com/UntameDuck/Panacea/commit/816c42d5b59533e0f7faa5d8cecf035b03e13cf5"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Remove AI disclaimer from README",
+        "url": "https://github.com/UntameDuck/Panacea/commit/3cd5e750e6cd65086defbd548553a45fc98adcc0"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Simplify auth: magic link only, remove 6-digit code page",
+        "url": "https://github.com/UntameDuck/Panacea/commit/3d813c610840b9d3d48cf1043674225d6aa15717"
+      },
+      {
+        "type": "commit",
+        "repo": "Panacea",
+        "author": "ryan-ahn-song",
+        "title": "Update README.md",
+        "url": "https://github.com/UntameDuck/Panacea/commit/80463157286a35bbb47a819ac04834f53534637b"
+      }
+    ]
+  },
+  "contributors": [
+    {
+      "login": "ryan-ahn-song",
+      "commits": 406,
+      "repositories": 12
+    },
+    {
+      "login": "Popoisthebest",
+      "commits": 56,
+      "repositories": 1
+    },
+    {
+      "login": "biro425",
+      "commits": 52,
+      "repositories": 3
+    },
+    {
+      "login": "DevTeamARK",
+      "commits": 16,
+      "repositories": 1
+    },
+    {
+      "login": "m1nxun",
+      "commits": 5,
+      "repositories": 2
+    },
+    {
+      "login": "chaste-ganza",
+      "commits": 2,
+      "repositories": 1
+    },
+    {
+      "login": "Inter129",
+      "commits": 2,
+      "repositories": 1
+    }
+  ]
+}
