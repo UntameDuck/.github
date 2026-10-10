@@ -117,7 +117,7 @@ Our projects span web development, mobile apps, research prototypes, backend sys
 
 The **Pond Activity** heatmap is designed to aggregate eligible GitHub contributions associated with UntameDuck from discovered public-repository contributors over the past 365 days. Coverage depends on GitHub permissions, contributor visibility, and GitHub's contribution rules.
 
-> **Preview notice:** Until the first successful GitHub Actions run, the streak card shows **AWAITING DATA**, not estimated or invented streak numbers.
+> **Live data:** This chart is recalculated automatically each day (09:23 KST) from GitHub's organization-filtered contribution calendars of public-repository commit authors. It is not a static mockup. [View the latest refresh](https://github.com/UntameDuck/.github/actions/workflows/pond-activity.yml).
 
 ## 05 · People in the Pond
 
