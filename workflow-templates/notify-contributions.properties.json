@@ -1,5 +1,0 @@
-{
-  "name": "Notify UntameDuck Contribution Ocean",
-  "description": "Refresh UntameDuck's organization contribution streak whenever commits reach this repository's default branch.",
-  "iconName": "octicon graph"
-}
