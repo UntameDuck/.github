@@ -5,6 +5,8 @@ on:
     # 15:13 UTC = 00:13 KST the next day
     - cron: '13 15 * * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [organization-commit]
   push:
     paths:
       - '.github/workflows/update-contributions.yml'
