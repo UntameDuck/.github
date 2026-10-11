@@ -1,0 +1,49 @@
+name: Update UntameDuck Contribution Ocean
+
+on:
+  schedule:
+    # 15:13 UTC = 00:13 KST the next day
+    - cron: '13 15 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-contributions.yml'
+      - 'scripts/generate_contributions.py'
+      - 'profile/README.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-ocean
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate theme-aware SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_contributions.py
+
+      - name: Commit SVG updates when changed
+        run: |
+          git add profile/assets/contributions-light.svg profile/assets/contributions-dark.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh organization contributions"
+          git push
