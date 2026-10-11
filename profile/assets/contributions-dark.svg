@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="285" viewBox="0 0 960 285" role="img" aria-labelledby="title description">
 <title id="title">UntameDuck Contribution Ocean (dark)</title>
 <desc id="description">Last 365 days: 480 commits in 12 organization repositories; current streak 0 days; longest streak 12 days.</desc>
-<rect x="1" y="1" width="958" height="283" rx="18" fill="#0A1926" stroke="#27495C" stroke-width="2"/>
 <text x="48" y="37" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="700" font-size="19" fill="#DCF6FF">UntameDuck · Contribution Ocean</text>
 <text x="48" y="56" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11.5" fill="#91B9CC">Public organization repositories · default branch commits · KST</text>
 <text x="48" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="0.8" fill="#91B9CC">CURRENT STREAK</text>
