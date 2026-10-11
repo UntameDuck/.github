@@ -2,7 +2,6 @@
 <title id="title">UntameDuck Contribution Ocean (dark)</title>
 <desc id="description">Last 365 days: 507 commits in 13 organization repositories; current streak 1 days; longest streak 12 days.</desc>
 <text x="48" y="37" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="700" font-size="19" fill="#DCF6FF">UntameDuck · Contribution Ocean</text>
-<text x="48" y="56" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11.5" fill="#91B9CC">Public organization repositories · default branch commits · KST</text>
 <text x="48" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="0.8" fill="#91B9CC">CURRENT STREAK</text>
 <text x="48" y="109" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="700" font-size="25" fill="#70D9F1">1 <tspan font-size="12" font-weight="400" fill="#91B9CC">days</tspan></text>
 <text x="350" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="0.8" fill="#91B9CC">LONGEST STREAK · 365D</text>
@@ -22,7 +21,6 @@
 <text x="704" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#91B9CC">Aug</text>
 <text x="784" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#91B9CC">Sep</text>
 <text x="848" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#91B9CC">Oct</text>
-<rect x="48" y="142" width="12" height="12" rx="2.5" fill="#19374A"><title>2025-10-12: 0 commits</title></rect>
 <rect x="48" y="158" width="12" height="12" rx="2.5" fill="#19374A"><title>2025-10-13: 0 commits</title></rect>
 <rect x="48" y="174" width="12" height="12" rx="2.5" fill="#19374A"><title>2025-10-14: 0 commits</title></rect>
 <rect x="48" y="190" width="12" height="12" rx="2.5" fill="#2888AA"><title>2025-10-15: 2 commits</title></rect>
@@ -387,7 +385,8 @@
 <rect x="864" y="222" width="12" height="12" rx="2.5" fill="#3DB9DA"><title>2026-10-09: 4 commits</title></rect>
 <rect x="864" y="238" width="12" height="12" rx="2.5" fill="#19374A"><title>2026-10-10: 0 commits</title></rect>
 <rect x="880" y="142" width="12" height="12" rx="2.5" fill="#78E0F2"><title>2026-10-11: 27 commits</title></rect>
-<text x="48" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#91B9CC">Updated 2026-10-11 · Asia/Seoul · 13 repositories</text>
+<rect x="880" y="158" width="12" height="12" rx="2.5" fill="#19374A"><title>2026-10-12: 0 commits</title></rect>
+<text x="48" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#91B9CC">Updated 2026-10-12 · Asia/Seoul · 13 repositories</text>
 <text x="784" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#91B9CC">Less</text>
 <rect x="813" y="262" width="12" height="12" rx="2.5" fill="#19374A"/>
 <rect x="830" y="262" width="12" height="12" rx="2.5" fill="#235C76"/>
