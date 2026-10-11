@@ -1,0 +1,42 @@
+name: Notify UntameDuck Contribution Ocean
+
+# A new commit on this repository's DEFAULT branch triggers a central rebuild.
+# A fine-grained PAT is supplied via an organization Actions secret.
+# https://github.com/UntameDuck/.github
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Notify contribution graph repository
+        env:
+          DISPATCH_TOKEN: ${{ secrets.UNTAMEDUCK_PROFILE_DISPATCH_TOKEN }}
+          SOURCE_REPO: ${{ github.repository }}
+          SOURCE_SHA: ${{ github.sha }}
+        shell: bash
+        run: |
+          if [ -z "$DISPATCH_TOKEN" ]; then
+            echo "::warning::Organization secret UNTAMEDUCK_PROFILE_DISPATCH_TOKEN is not set; daily fallback will still refresh the graph."
+            exit 0
+          fi
+
+          payload="$(jq -cn --arg repo "$SOURCE_REPO" --arg sha "$SOURCE_SHA" \
+            '{"event_type":"organization-commit","client_payload":{"repository":$repo,"sha":$sha}}')"
+
+          curl --fail-with-body --silent --show-error \
+            --retry 3 --retry-delay 4 \
+            --request POST \
+            --header "Authorization: Bearer $DISPATCH_TOKEN" \
+            --header "Accept: application/vnd.github+json" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            --header "Content-Type: application/json" \
+            --data "$payload" \
+            "https://api.github.com/repos/UntameDuck/.github/dispatches"
