@@ -138,7 +138,6 @@ def render(totals, start, today, examined, theme):
         f'<title id="title">UntameDuck Contribution Ocean ({theme})</title>',
         f'<desc id="description">Last 365 days: {total} commits in {examined} organization repositories; current streak {current} days; longest streak {longest} days.</desc>',
         f'<text x="48" y="37" font-family="{face}" font-weight="700" font-size="19" fill="{c["text"]}">UntameDuck · Contribution Ocean</text>',
-        f'<text x="48" y="56" font-family="{face}" font-size="11.5" fill="{c["muted"]}">Public organization repositories · default branch commits · KST</text>',
     ]
     for x, label, number, unit in (
         (48, "CURRENT STREAK", current, "days"),
