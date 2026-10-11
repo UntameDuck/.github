@@ -17,12 +17,12 @@ KST = ZoneInfo("Asia/Seoul")
 DEST = Path(__file__).resolve().parents[1] / "profile" / "assets"
 COLORS = {
     "light": {
-        "bg": "#F5FCFE", "border": "#CBEAF3", "text": "#184E68",
+        "border": "#CBEAF3", "text": "#184E68",
         "muted": "#618FA5", "accent": "#279CC2",
         "levels": ["#E2F3F8", "#BBEAF5", "#88D8EC", "#50BEDD", "#279CC2"]
     },
     "dark": {
-        "bg": "#0A1926", "border": "#27495C", "text": "#DCF6FF",
+        "border": "#27495C", "text": "#DCF6FF",
         "muted": "#91B9CC", "accent": "#70D9F1",
         "levels": ["#19374A", "#235C76", "#2888AA", "#3DB9DA", "#78E0F2"]
     }
@@ -137,7 +137,6 @@ def render(totals, start, today, examined, theme):
         '<svg xmlns="http://www.w3.org/2000/svg" width="960" height="285" viewBox="0 0 960 285" role="img" aria-labelledby="title description">',
         f'<title id="title">UntameDuck Contribution Ocean ({theme})</title>',
         f'<desc id="description">Last 365 days: {total} commits in {examined} organization repositories; current streak {current} days; longest streak {longest} days.</desc>',
-        f'<rect x="1" y="1" width="958" height="283" rx="18" fill="{c["bg"]}" stroke="{c["border"]}" stroke-width="2"/>',
         f'<text x="48" y="37" font-family="{face}" font-weight="700" font-size="19" fill="{c["text"]}">UntameDuck · Contribution Ocean</text>',
         f'<text x="48" y="56" font-family="{face}" font-size="11.5" fill="{c["muted"]}">Public organization repositories · default branch commits · KST</text>',
     ]
