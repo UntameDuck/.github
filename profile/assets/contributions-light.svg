@@ -21,7 +21,6 @@
 <text x="688" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Aug</text>
 <text x="768" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Sep</text>
 <text x="832" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Oct</text>
-<rect x="48" y="174" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2025-10-21: 0 commits</title></rect>
 <rect x="48" y="190" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2025-10-22: 0 commits</title></rect>
 <rect x="48" y="206" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2025-10-23: 0 commits</title></rect>
 <rect x="48" y="222" width="12" height="12" rx="2.5" fill="#BBEAF5"><title>2025-10-24: 1 commit</title></rect>
@@ -386,7 +385,8 @@
 <rect x="880" y="142" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2026-10-18: 0 commits</title></rect>
 <rect x="880" y="158" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2026-10-19: 0 commits</title></rect>
 <rect x="880" y="174" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2026-10-20: 0 commits</title></rect>
-<text x="48" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Updated 2026-10-20 · Asia/Seoul · 17 repositories</text>
+<rect x="880" y="190" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2026-10-21: 0 commits</title></rect>
+<text x="48" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Updated 2026-10-21 · Asia/Seoul · 17 repositories</text>
 <text x="784" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Less</text>
 <rect x="813" y="262" width="12" height="12" rx="2.5" fill="#E2F3F8"/>
 <rect x="830" y="262" width="12" height="12" rx="2.5" fill="#BBEAF5"/>
