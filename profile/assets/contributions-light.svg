@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="285" viewBox="0 0 960 285" role="img" aria-labelledby="title description">
 <title id="title">UntameDuck Contribution Ocean (light)</title>
-<desc id="description">Last 365 days: 504 commits in 17 organization repositories; current streak 0 days; longest streak 12 days.</desc>
+<desc id="description">Last 365 days: 502 commits in 17 organization repositories; current streak 0 days; longest streak 12 days.</desc>
 <text x="48" y="37" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="700" font-size="19" fill="#184E68">UntameDuck · Contribution Ocean</text>
 <text x="48" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="0.8" fill="#618FA5">CURRENT STREAK</text>
 <text x="48" y="109" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="700" font-size="25" fill="#279CC2">0 <tspan font-size="12" font-weight="400" fill="#618FA5">days</tspan></text>
 <text x="350" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="0.8" fill="#618FA5">LONGEST STREAK · 365D</text>
 <text x="350" y="109" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="700" font-size="25" fill="#279CC2">12 <tspan font-size="12" font-weight="400" fill="#618FA5">days</tspan></text>
 <text x="670" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="0.8" fill="#618FA5">COMMITS · 365D</text>
-<text x="670" y="109" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="700" font-size="25" fill="#279CC2">504 <tspan font-size="12" font-weight="400" fill="#618FA5">commits</tspan></text>
+<text x="670" y="109" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="700" font-size="25" fill="#279CC2">502 <tspan font-size="12" font-weight="400" fill="#618FA5">commits</tspan></text>
 <path d="M48 121H912" stroke="#CBEAF3"/>
 <text x="48" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Nov</text>
 <text x="128" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Dec</text>
@@ -21,7 +21,6 @@
 <text x="672" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Aug</text>
 <text x="752" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Sep</text>
 <text x="816" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Oct</text>
-<rect x="48" y="158" width="12" height="12" rx="2.5" fill="#88D8EC"><title>2025-10-27: 2 commits</title></rect>
 <rect x="48" y="174" width="12" height="12" rx="2.5" fill="#BBEAF5"><title>2025-10-28: 1 commit</title></rect>
 <rect x="48" y="190" width="12" height="12" rx="2.5" fill="#88D8EC"><title>2025-10-29: 2 commits</title></rect>
 <rect x="48" y="206" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2025-10-30: 0 commits</title></rect>
@@ -386,7 +385,8 @@
 <rect x="864" y="238" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2026-10-24: 0 commits</title></rect>
 <rect x="880" y="142" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2026-10-25: 0 commits</title></rect>
 <rect x="880" y="158" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2026-10-26: 0 commits</title></rect>
-<text x="48" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Updated 2026-10-26 · Asia/Seoul · 17 repositories</text>
+<rect x="880" y="174" width="12" height="12" rx="2.5" fill="#E2F3F8"><title>2026-10-27: 0 commits</title></rect>
+<text x="48" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Updated 2026-10-27 · Asia/Seoul · 17 repositories</text>
 <text x="784" y="272" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" fill="#618FA5">Less</text>
 <rect x="813" y="262" width="12" height="12" rx="2.5" fill="#E2F3F8"/>
 <rect x="830" y="262" width="12" height="12" rx="2.5" fill="#BBEAF5"/>
